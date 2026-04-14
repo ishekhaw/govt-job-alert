@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Govt Job Alert | Live Government Recruitment Updates</title>
+  <meta
+    name="description"
+    content="Live government job alert website powered by your scraper, with official recruitment updates, PDF notices, and source-wise filtering."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Source+Serif+4:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2729196747281772" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="#home">
+        <span class="brand-mark">G</span>
+        <span>
+          <strong>Govt Job Alert</strong>
+          <small>govtjobalert.net</small>
+        </span>
+      </a>
+
+      <nav class="nav">
+        <a href="#notifications">Notifications</a>
+        <a href="#categories">Categories</a>
+        <a href="#resources">Resources</a>
+      </nav>
+
+      <a class="nav-cta" href="#notifications">Latest Alerts</a>
+    </header>
+
+    <main id="home">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Daily Government Job Updates</p>
+          <h1>Live job alerts from your scraper, ready to publish on the site.</h1>
+          <p class="hero-text">
+            The homepage now reads directly from your exported scraper data, showing official links,
+            PDF notices, and the latest recruitment updates in one place.
+          </p>
+
+          <div class="hero-ad" aria-label="Advertisement">
+            <ins
+              class="adsbygoogle"
+              style="display:block"
+              data-ad-client="ca-pub-2729196747281772"
+              data-ad-slot="YOUR_AD_SLOT_ID"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            ></ins>
+          </div>
+
+          <div class="hero-actions">
+            <a class="button button-primary" href="#notifications">Browse Latest Alerts</a>
+            <a class="button button-secondary" href="#resources">View PDF Resources</a>
+          </div>
+
+          <ul class="hero-stats">
+            <li><strong id="statsTotal">0</strong><span>live listings</span></li>
+            <li><strong id="statsSources">0 sources</strong><span>currently tracked</span></li>
+            <li><strong id="statsUpdated">Waiting</strong><span>last scraper refresh</span></li>
+          </ul>
+        </div>
+
+        <aside class="hero-panel">
+          <div class="panel-card panel-highlight">
+            <span class="panel-label">Featured Alert</span>
+            <h2 id="featuredTitle">Loading latest scraped alert...</h2>
+            <p id="featuredDescription">The newest record from your scraper will appear here automatically.</p>
+            <div class="pill-row" id="featuredPills">
+              <span class="pill">Refreshing</span>
+            </div>
+            <a class="button button-primary featured-action" id="featuredLink" href="#notifications">Browse updates</a>
+          </div>
+
+          <div class="panel-grid">
+            <div class="panel-card">
+              <span class="panel-label">Quick Focus</span>
+              <h3>Source Filters</h3>
+              <p>Switch between railway, banking, UPSC, KVS, NTA, SSC, or PDF-only notices in one tap.</p>
+            </div>
+            <div class="panel-card">
+              <span class="panel-label">Static Hosting Ready</span>
+              <h3>No Database in Browser</h3>
+              <p>Site content is loaded from an exported data file generated after each scraper run.</p>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="search-strip" aria-label="Content filters">
+        <div>
+          <p class="section-kicker">Content Explorer</p>
+          <h2>Filter live alerts by source or notice type</h2>
+        </div>
+
+        <div class="filter-group" id="filterGroup">
+          <button class="filter-chip is-active" data-filter="all">All Posts</button>
+          <span id="dynamicFilters"></span>
+          <button class="filter-chip" data-filter="pdf">PDF Notices</button>
+        </div>
+      </section>
+
+      <section class="content-section" id="notifications">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Latest Posts</p>
+            <h2 id="listingHeading">Latest notifications ready for your website</h2>
+          </div>
+          <a class="text-link" href="#resources">Jump to PDF resources</a>
+        </div>
+
+        <div class="card-grid" id="listingGrid"></div>
+        <div class="pagination" id="pagination" aria-label="Listing pagination"></div>
+      </section>
+
+      <section class="content-section category-band" id="categories">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Coverage</p>
+            <h2>Built for the way Indian job seekers search</h2>
+          </div>
+        </div>
+
+        <div class="category-grid">
+          <article class="category-card">
+            <h3>RRB Recruitment Feed</h3>
+            <p>Railway notices, CEN updates, corrigendums, timelines, and linked PDFs captured from the source site.</p>
+          </article>
+          <article class="category-card">
+            <h3>IBPS Banking Feed</h3>
+            <p>Clerk, PO, specialist officer, and regional rural bank recruitment updates ready for publishing.</p>
+          </article>
+          <article class="category-card">
+            <h3>UPSC, KVS and Exam Alerts</h3>
+            <p>Union Public Service Commission, Kendriya Vidyalaya, and national exam notices can surface in the same listing stream.</p>
+          </article>
+          <article class="category-card">
+            <h3>Official Redirect Links</h3>
+            <p>Each listing points visitors to the official notice page or PDF instead of a placeholder sample asset.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="content-section" id="resources">
+        <aside class="resource-panel">
+          <p class="section-kicker">Resource Hub</p>
+          <h2>PDFs, notices, and quick downloads</h2>
+
+          <ul class="resource-list" id="resourceList">
+            <li>
+              <div>
+                <strong>Waiting for export</strong>
+                <span>Run the scraper to populate live PDF links.</span>
+              </div>
+              <a href="#notifications">Open alerts</a>
+            </li>
+          </ul>
+        </aside>
+      </section>
+    </main>
+  </div>
+
+  <script src="jobs-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
