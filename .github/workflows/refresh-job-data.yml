@@ -3,8 +3,7 @@ name: Refresh Job Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1,9,15 * * *"
-    - cron: "10 18 * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
