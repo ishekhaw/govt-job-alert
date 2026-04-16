@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us | Govt Job Alert</title>
+  <meta name="description" content="Contact Government Job Alert - Get in touch with our team.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Source+Serif+4:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">G</span>
+        <span>
+          <strong>Govt Job Alert</strong>
+          <small>govtjobalert.net</small>
+        </span>
+      </a>
+
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about-us.html">About Us</a>
+        <a href="contact-us.html">Contact</a>
+      </nav>
+
+      <a class="nav-cta" href="index.html">Go Back</a>
+    </header>
+
+    <main>
+      <section class="content-section">
+        <div class="section-heading">
+          <h1>Contact Us</h1>
+          <p class="section-kicker">We'd love to hear from you</p>
+        </div>
+
+        <article class="contact-content">
+          <p>Have questions, suggestions, or found an issue on Government Job Alert? We'd love to hear from you. Please use the information below to get in touch with us.</p>
+
+          <div class="contact-grid">
+            <div class="contact-card">
+              <h3>Email</h3>
+              <p>For general inquiries and feedback:</p>
+              <a href="mailto:info@govtjobalert.net">info@govtjobalert.net</a>
+            </div>
+
+            <div class="contact-card">
+              <h3>Support</h3>
+              <p>Report issues or technical problems:</p>
+              <a href="mailto:support@govtjobalert.net">support@govtjobalert.net</a>
+            </div>
+
+            <div class="contact-card">
+              <h3>Business Inquiries</h3>
+              <p>For partnership and collaboration:</p>
+              <a href="mailto:business@govtjobalert.net">business@govtjobalert.net</a>
+            </div>
+
+            <div class="contact-card">
+              <h3>Response Time</h3>
+              <p>We aim to respond to all inquiries within 24-48 business hours.</p>
+            </div>
+          </div>
+
+          <h2>Contact Form</h2>
+          <form class="contact-form" method="POST" action="#">
+            <div class="form-group">
+              <label for="name">Full Name *</label>
+              <input type="text" id="name" name="name" required placeholder="Enter your full name">
+            </div>
+
+            <div class="form-group">
+              <label for="email">Email Address *</label>
+              <input type="email" id="email" name="email" required placeholder="Enter your email address">
+            </div>
+
+            <div class="form-group">
+              <label for="subject">Subject *</label>
+              <input type="text" id="subject" name="subject" required placeholder="What is this about?">
+            </div>
+
+            <div class="form-group">
+              <label for="category">Category</label>
+              <select id="category" name="category">
+                <option value="">Select a category</option>
+                <option value="feedback">Feedback</option>
+                <option value="bug">Bug Report</option>
+                <option value="suggestion">Suggestion</option>
+                <option value="partnership">Partnership</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="message">Message *</label>
+              <textarea id="message" name="message" required placeholder="Tell us more..." rows="6"></textarea>
+            </div>
+
+            <button type="submit" class="button button-primary">Send Message</button>
+          </form>
+
+          <h2>Frequently Asked Questions</h2>
+          <div class="faq-section">
+            <div class="faq-item">
+              <h3>How often are job alerts updated?</h3>
+              <p>Our website is updated multiple times daily with the latest government job notifications from official sources. Check back regularly for the most current openings.</p>
+            </div>
+
+            <div class="faq-item">
+              <h3>Are you affiliated with official government websites?</h3>
+              <p>No, Government Job Alert is an independent job alert aggregator. We collect and display job notifications from official government sources for your convenience. Please visit official websites for verification.</p>
+            </div>
+
+            <div class="faq-item">
+              <h3>How can I report a missing or incorrect job posting?</h3>
+              <p>If you notice any missing or incorrect information, please email us at <a href="mailto:support@govtjobalert.net">support@govtjobalert.net</a> with details about the issue.</p>
+            </div>
+
+            <div class="faq-item">
+              <h3>Do you charge any fees?</h3>
+              <p>Government Job Alert is completely free to use. We do not charge any fees for accessing job notifications or resources on our website.</p>
+            </div>
+
+            <div class="faq-item">
+              <h3>Can I get notifications sent to my email?</h3>
+              <p>We're working on an email subscription feature. Please check back soon or <a href="mailto:info@govtjobalert.net">contact us</a> to express your interest.</p>
+            </div>
+
+            <div class="faq-item">
+              <h3>How do I apply for a job?</h3>
+              <p>Each job listing links to the official website or PDF. Follow the instructions provided by the official recruitment agency. Government Job Alert does not process applications directly.</p>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-content">
+        <div class="footer-links">
+          <a href="privacy-policy.html">Privacy Policy</a>
+          <a href="terms-conditions.html">Terms & Conditions</a>
+          <a href="disclaimer.html">Disclaimer</a>
+          <a href="about-us.html">About Us</a>
+          <a href="contact-us.html">Contact Us</a>
+        </div>
+        <p>&copy; 2026 Government Job Alert. All rights reserved.</p>
+      </div>
+    </footer>
+  </div>
+
+  <style>
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .contact-card {
+      padding: 1.5rem;
+      border: 1px solid #ddd;
+      border-radius: 0.5rem;
+      background-color: #f9f9f9;
+    }
+
+    .contact-card h3 {
+      margin-top: 0;
+      font-size: 1.2rem;
+    }
+
+    .contact-card a {
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .contact-card a:hover {
+      text-decoration: underline;
+    }
+
+    .contact-form {
+      max-width: 600px;
+      margin: 2rem 0;
+    }
+
+    .form-group {
+      margin-bottom: 1.5rem;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: 500;
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 0.25rem;
+      font-family: inherit;
+      font-size: inherit;
+    }
+
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: #0066cc;
+      box-shadow: 0 0 0 3px rgba(0, 102, 204, 0.1);
+    }
+
+    .faq-section {
+      margin-top: 2rem;
+    }
+
+    .faq-item {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .faq-item:last-child {
+      border-bottom: none;
+    }
+
+    .faq-item h3 {
+      margin-top: 0;
+      color: #333;
+    }
+
+    .faq-item p {
+      margin: 0.5rem 0 0 0;
+      color: #666;
+    }
+
+    .faq-item a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    .faq-item a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</body>
+</html>

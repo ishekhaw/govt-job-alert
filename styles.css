@@ -571,3 +571,142 @@ a {
     flex-direction: column;
   }
 }
+
+/* Footer Styles */
+.site-footer {
+  margin-top: 64px;
+  padding: 40px 20px;
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+  border-radius: 24px 24px 0 0;
+  box-shadow: var(--shadow);
+}
+
+.footer-content {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.footer-links a {
+  color: var(--muted);
+  font-size: 0.95rem;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: var(--brand);
+}
+
+.site-footer p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* Policy pages content styles */
+.policy-content {
+  max-width: 900px;
+  line-height: 1.8;
+}
+
+.policy-content h2 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  color: var(--text);
+}
+
+.policy-content p,
+.policy-content li {
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.policy-content ul,
+.policy-content ol {
+  margin-left: 24px;
+  margin-bottom: 12px;
+}
+
+.policy-content a {
+  color: var(--brand);
+  text-decoration: none;
+  border-bottom: 1px solid var(--brand);
+}
+
+.policy-content a:hover {
+  color: var(--brand-dark);
+  border-bottom-color: var(--brand-dark);
+}
+
+.contact-content {
+  max-width: 900px;
+  line-height: 1.8;
+}
+
+.contact-content h2 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  color: var(--text);
+}
+
+.contact-content p {
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.about-content {
+  max-width: 900px;
+  line-height: 1.8;
+}
+
+.about-content h2 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  color: var(--text);
+}
+
+.about-content p,
+.about-content li {
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.about-content ul,
+.about-content ol {
+  margin-left: 24px;
+  margin-bottom: 12px;
+}
+
+.about-content a {
+  color: var(--brand);
+  text-decoration: none;
+  border-bottom: 1px solid var(--brand);
+}
+
+.about-content a:hover {
+  color: var(--brand-dark);
+  border-bottom-color: var(--brand-dark);
+}
+
+@media (max-width: 680px) {
+  .site-footer {
+    padding: 24px 18px;
+  }
+
+  .footer-links {
+    gap: 12px;
+    font-size: 0.85rem;
+  }
+}
