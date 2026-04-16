@@ -700,6 +700,47 @@ a {
   border-bottom-color: var(--brand-dark);
 }
 
+/* Content Block Styles */
+.content-block {
+  padding: 40px;
+  margin: 40px 0;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+}
+
+.content-block h2 {
+  margin-top: 0;
+  margin-bottom: 24px;
+  font-size: 1.8rem;
+  color: var(--text);
+}
+
+.content-block h3 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-size: 1.2rem;
+  color: var(--text);
+}
+
+.content-block p {
+  margin-bottom: 16px;
+  color: var(--text);
+  line-height: 1.8;
+}
+
+.content-block ul {
+  margin-left: 24px;
+  margin-bottom: 16px;
+  color: var(--text);
+  line-height: 1.8;
+}
+
+.content-block li {
+  margin-bottom: 8px;
+}
+
 @media (max-width: 680px) {
   .site-footer {
     padding: 24px 18px;

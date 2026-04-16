@@ -251,6 +251,10 @@ renderFeatured();
 renderResources();
 renderListings();
 
+// Update the stats with current date
+document.getElementById("statsUpdated").innerText =
+  "Updated on " + new Date().toLocaleDateString();
+
 window.addEventListener("load", () => {
   if (window.adsbygoogle) {
     window.adsbygoogle.push({});
