@@ -5,6 +5,7 @@ from scrapers.nta import scrape_nta
 from scrapers.rrb import scrape_rrb
 from scrapers.ssc import scrape_ssc
 from scrapers.upsc import scrape_upsc
+from scrapers.toi import scrape_toi_news
 
 
 def run_step(label, scraper):
@@ -25,6 +26,7 @@ def run_all():
     run_step("KVS", scrape_kvs)
     run_step("NTA", scrape_nta)
     run_step("RRB", scrape_rrb)
+    run_step("TOI News", scrape_toi_news)
 
     export_path = export_jobs_data()
     print(f"Exported site data to {export_path}.")

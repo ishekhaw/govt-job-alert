@@ -151,12 +151,17 @@ def save_job(title, link, source, description=""):
     conn.commit()
 
 
-def fetch_jobs(limit=None):
+def fetch_jobs(limit=None, exclude_sources=None):
     query = (
         "SELECT id, title, link, source, description, scraped_at "
         "FROM jobs ORDER BY scraped_at DESC, id DESC"
     )
     params = []
+
+    if exclude_sources:
+        placeholders = ','.join('?' * len(exclude_sources))
+        query = query.replace("FROM jobs", f"FROM jobs WHERE source NOT IN ({placeholders})")
+        params.extend(exclude_sources)
 
     if limit is not None:
         query += " LIMIT ?"
@@ -166,12 +171,25 @@ def fetch_jobs(limit=None):
     return [build_job_record(row) for row in rows]
 
 
+def fetch_news(limit=10):
+    """Fetch news items from TOI_NEWS source"""
+    query = (
+        "SELECT id, title, link, source, description, scraped_at "
+        "FROM jobs WHERE source = 'TOI_NEWS' ORDER BY scraped_at DESC, id DESC LIMIT ?"
+    )
+    rows = cursor.execute(query, (limit,)).fetchall()
+    return [build_job_record(row) for row in rows]
+
+
 def build_export_payload():
-    jobs = fetch_jobs()
+    # Separate news from jobs
+    news_items = fetch_news()
+    jobs = fetch_jobs(exclude_sources=['TOI_NEWS'])
+    
     source_counts = cursor.execute(
         """
         SELECT source, COUNT(*) AS total
-        FROM jobs
+        FROM jobs WHERE source != 'TOI_NEWS'
         GROUP BY source
         ORDER BY total DESC, source ASC
         """
@@ -184,6 +202,7 @@ def build_export_payload():
     payload = {
         "generatedAt": latest_scrape,
         "totalJobs": len(jobs),
+        "totalNews": len(news_items),
         "sourceCounts": [
             {"source": row["source"], "count": row["total"]}
             for row in source_counts
@@ -191,6 +210,7 @@ def build_export_payload():
         "featuredJob": jobs[0] if jobs else None,
         "resourceJobs": [job for job in jobs if job["pdf"]][:6],
         "jobs": jobs,
+        "news": news_items,
     }
 
     return payload

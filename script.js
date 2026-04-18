@@ -14,18 +14,24 @@ const featuredDescription = document.getElementById("featuredDescription");
 const featuredPills = document.getElementById("featuredPills");
 const featuredLink = document.getElementById("featuredLink");
 
+const newsList = document.getElementById("newsList");
+
 const dataBundle = window.__JOB_DATA__ || {
   generatedAt: null,
   totalJobs: 0,
+  totalNews: 0,
   sourceCounts: [],
   featuredJob: null,
   resourceJobs: [],
-  jobs: []
+  jobs: [],
+  news: []
 };
 
 const PAGE_SIZE = 12;
 let currentFilter = "all";
 let currentPage = 1;
+
+console.log('Script.js loaded successfully');
 
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, (char) => ({
@@ -117,6 +123,23 @@ function renderResources() {
         <span>${escapeHtml(job.source)} PDF notice</span>
       </div>
       <a href="${escapeHtml(job.link)}" target="_blank" rel="noreferrer">Download PDF</a>
+    </li>
+  `).join("");
+}
+
+function renderNews() {
+  const newsItems = dataBundle.news || [];
+
+  if (!newsItems.length) {
+    newsList.innerHTML = '<li>No education news available</li>';
+    return;
+  }
+
+  newsList.innerHTML = newsItems.slice(0, 5).map((item) => `
+    <li>
+      <a href="${escapeHtml(item.link)}" target="_blank" rel="noreferrer">
+        ${escapeHtml(item.title)}
+      </a>
     </li>
   `).join("");
 }
@@ -249,14 +272,75 @@ renderStats();
 renderSourceFilters();
 renderFeatured();
 renderResources();
+renderNews();
 renderListings();
 
 // Update the stats with current date
 document.getElementById("statsUpdated").innerText =
   "Updated on " + new Date().toLocaleDateString();
 
+// Digital Clock Functionality
+function updateDigitalClock() {
+  try {
+    const now = new Date();
+    const timeElement = document.querySelector('.clock-time');
+    const dateElement = document.querySelector('.clock-date');
+    
+    console.log('Updating clock, elements found:', !!timeElement, !!dateElement);
+    
+    if (timeElement && dateElement) {
+      // Format time as HH:MM:SS manually for better compatibility
+      const hours = String(now.getHours()).padStart(2, '0');
+      const minutes = String(now.getMinutes()).padStart(2, '0');
+      const seconds = String(now.getSeconds()).padStart(2, '0');
+      const timeString = `${hours}:${minutes}:${seconds}`;
+      
+      // Format date as DD MMM YYYY
+      const day = String(now.getDate()).padStart(2, '0');
+      const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      const month = monthNames[now.getMonth()];
+      const year = now.getFullYear();
+      const dateString = `${day} ${month} ${year}`;
+      
+      console.log('Setting time:', timeString, 'date:', dateString);
+      timeElement.textContent = timeString;
+      dateElement.textContent = dateString;
+    } else {
+      console.log('Clock elements not found');
+    }
+  } catch (error) {
+    console.error('Error updating clock:', error);
+  }
+}
+
+// Initialize and update clock every second
+function initDigitalClock() {
+  console.log('Initializing digital clock...');
+  updateDigitalClock(); // Update immediately
+  setInterval(updateDigitalClock, 1000); // Update every second
+}
+
+// Try to initialize immediately, and also on DOM ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initDigitalClock);
+} else {
+  // If DOM is already loaded, wait a bit to ensure elements are rendered
+  setTimeout(initDigitalClock, 100);
+}
+
+// Also initialize on window load as backup
 window.addEventListener("load", () => {
   if (window.adsbygoogle) {
     window.adsbygoogle.push({});
   }
+  
+  // Initialize digital clock as backup
+  setTimeout(initDigitalClock, 100);
 });
+
+// Initialize clock immediately at script end - this should work since script is at bottom
+console.log('Script loaded, initializing clock...');
+setTimeout(() => {
+  console.log('Running delayed initialization...');
+  initDigitalClock();
+}, 100);

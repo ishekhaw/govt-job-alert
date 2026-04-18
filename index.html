@@ -32,8 +32,24 @@
         <a href="#resources">Resources</a>
       </nav>
 
-      <a class="nav-cta" href="#notifications">Latest Alerts</a>
+      <div class="header-right">
+        <div class="digital-clock" id="digitalClock">
+          <span class="clock-time">--:--:--</span>
+          <span class="clock-date">Loading...</span>
+        </div>
+        <a class="nav-cta" href="#notifications">Latest Alerts</a>
+      </div>
     </header>
+
+    <section class="news-banner">
+      <div class="news-content">
+        <div class="news-icon">📢</div>
+        <div class="news-text">
+          <strong>CBSE Results 2026:</strong> 10th and 12th board exam results declared! Check toppers list and result analysis.
+        </div>
+        <a href="https://cbseresults.nic.in/" class="news-link" target="_blank" rel="noopener">Check Results →</a>
+      </div>
+    </section>
 
     <main id="home">
       <section class="hero">
@@ -79,6 +95,14 @@
               <span class="panel-label">Real-Time Updates</span>
               <h3>Always Current</h3>
               <p>Our data refreshes multiple times daily to capture the latest job notifications and recruitment updates.</p>
+            </div>
+            <div class="panel-card panel-news">
+              <span class="panel-label">Education News</span>
+              <h3>Latest Updates</h3>
+              <ul class="news-list" id="newsList">
+                <li>Loading education news...</li>
+              </ul>
+              <a class="text-link" href="https://timesofindia.indiatimes.com/education/news" target="_blank">More news →</a>
             </div>
           </div>
         </aside>
