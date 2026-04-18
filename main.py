@@ -1,4 +1,4 @@
-from db import export_jobs_data
+from db import export_jobs_data, clear_old_data
 from scrapers.ibps import scrape_ibps
 from scrapers.kvs import scrape_kvs
 from scrapers.nta import scrape_nta
@@ -16,6 +16,9 @@ def run_step(label, scraper):
 
 
 def run_all():
+    print("Clearing old data...")
+    clear_old_data()
+    
     run_step("SSC", scrape_ssc)
     run_step("IBPS", scrape_ibps)
     run_step("UPSC", scrape_upsc)

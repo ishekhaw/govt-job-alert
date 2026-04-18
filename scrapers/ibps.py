@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 from db import save_job
-from scrapers.utils import absolute_link, extract_listing_description
+from scrapers.utils import absolute_link, extract_listing_description, extract_date, is_within_last_month
 
 def scrape_ibps():
     with sync_playwright() as p:
@@ -23,6 +23,13 @@ def scrape_ibps():
                 if href:
                     title = text.strip()
                     description = extract_listing_description(link, title)
+                    
+                    # Check if the job is within last month
+                    combined_text = title + " " + description
+                    job_date = extract_date(combined_text)
+                    if job_date and not is_within_last_month(job_date):
+                        continue  # Skip old jobs
+                    
                     save_job(title, absolute_link(base_url, href), "IBPS", description)
 
         browser.close()

@@ -201,3 +201,10 @@ def export_jobs_data():
     export_text = "window.__JOB_DATA__ = " + json.dumps(payload, indent=2) + ";\n"
     EXPORT_PATH.write_text(export_text, encoding="utf-8")
     return EXPORT_PATH
+
+
+def clear_old_data():
+    """Clear all existing job data from the database."""
+    cursor.execute("DELETE FROM jobs")
+    conn.commit()
+    print("Cleared all old job data.")

@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 
 from db import save_job
-from scrapers.utils import absolute_link, extract_listing_description, matches_keywords
+from scrapers.utils import absolute_link, extract_listing_description, matches_keywords, extract_date, is_within_last_month
 
 
 def scrape_kvs():
@@ -41,11 +41,19 @@ def scrape_kvs():
                 if not matches_keywords(title, keywords):
                     continue
 
+                description = extract_listing_description(link, title)
+                
+                # Check if the job is within last month
+                combined_text = title + " " + description
+                job_date = extract_date(combined_text)
+                if job_date and not is_within_last_month(job_date):
+                    continue  # Skip old jobs
+
                 save_job(
                     title=title,
                     link=absolute_link(base_url, href),
                     source="KVS",
-                    description=extract_listing_description(link, title),
+                    description=description,
                 )
             except Exception:
                 continue
