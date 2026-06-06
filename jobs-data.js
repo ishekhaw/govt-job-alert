@@ -1,6 +1,6 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-06-06 08:26:32",
-  "totalJobs": 153,
+  "generatedAt": "2026-06-06 13:13:49",
+  "totalJobs": 140,
   "totalNews": 10,
   "sourceCounts": [
     {
@@ -10,18 +10,10 @@ window.__JOB_DATA__ = {
     {
       "source": "IBPS",
       "count": 16
-    },
-    {
-      "source": "NTA",
-      "count": 9
-    },
-    {
-      "source": "KVS",
-      "count": 4
     }
   ],
   "featuredJob": {
-    "id": 36418,
+    "id": 36604,
     "title": "Advance notice regarding Centralised Employment Notification (CEN) for recruitment of Technicians in Indian Railways",
     "source": "RRB",
     "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Advance Notice Technicians dt 290124.pdf",
@@ -31,11 +23,11 @@ window.__JOB_DATA__ = {
     "pdf": true,
     "description": "CEN-02/2024 (Technician) : Advance Notice Notice",
     "publishedLabel": "Updated 2026-06-06",
-    "scrapedAt": "2026-06-06 08:26:31"
+    "scrapedAt": "2026-06-06 13:13:48"
   },
   "resourceJobs": [
     {
-      "id": 36418,
+      "id": 36604,
       "title": "Advance notice regarding Centralised Employment Notification (CEN) for recruitment of Technicians in Indian Railways",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Advance Notice Technicians dt 290124.pdf",
@@ -45,10 +37,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Advance Notice Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36417,
+      "id": 36603,
       "title": "Corrigendum to para 5.0 and 5.2 of the detailed CEN-01/2024 for the post of ALP",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/Corrigendum CEN 01-2024 dt 29012024.pdf",
@@ -58,10 +50,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : Corrigendum regarding age-relaxation Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36416,
+      "id": 36602,
       "title": "Tentative Timeline for CEN-01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/2024-01 ALP - Timeline.pdf",
@@ -71,10 +63,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : Tentative Timeline Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36415,
+      "id": 36601,
       "title": "Tentative Timeline of CEN-02/2024 for recruitment of Technicians",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/2024-02 Tech - Timeline.pdf",
@@ -84,10 +76,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Tentative Timeline Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36414,
+      "id": 36600,
       "title": "Tentative date for publishing of CEN RPF-01/2024 and CEN RPF-02/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/Notice_RPF CEN 01_2024 & RPF CEN 02_2024.pdf",
@@ -97,10 +89,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CENs-RPF/2024 : Date of publishing Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36413,
+      "id": 36599,
       "title": "CEN No. RPF 01/2024 for the post of Sub-Inspector (Executive)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF01-SI/CEN 2024-01 RPF-SI.pdf",
@@ -110,12 +102,12 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "RPF 01/2024 (Sub-Inspector) : Centralised Employment Notice / \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e Notice : \u0938\u0942\u091a\u0928\u093e : \u0909\u092a-\u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0915 (\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940) \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.(\u0906\u0930\u092a\u0940\u090f\u092b) 01/2024 Link / \u0932\u093f\u0902\u0915 : Click here to apply / \u0906\u0935\u0947\u0926\u0928 \u0915\u0930\u0928\u0947 \u0915\u093e \u0932\u093f\u090f \u092f\u0939\u093e\u0901 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0947\u0902",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:47"
     }
   ],
   "jobs": [
     {
-      "id": 36418,
+      "id": 36604,
       "title": "Advance notice regarding Centralised Employment Notification (CEN) for recruitment of Technicians in Indian Railways",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Advance Notice Technicians dt 290124.pdf",
@@ -125,10 +117,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Advance Notice Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36417,
+      "id": 36603,
       "title": "Corrigendum to para 5.0 and 5.2 of the detailed CEN-01/2024 for the post of ALP",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/Corrigendum CEN 01-2024 dt 29012024.pdf",
@@ -138,10 +130,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : Corrigendum regarding age-relaxation Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36416,
+      "id": 36602,
       "title": "Tentative Timeline for CEN-01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/2024-01 ALP - Timeline.pdf",
@@ -151,10 +143,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : Tentative Timeline Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36415,
+      "id": 36601,
       "title": "Tentative Timeline of CEN-02/2024 for recruitment of Technicians",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/2024-02 Tech - Timeline.pdf",
@@ -164,36 +156,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Tentative Timeline Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36414,
-      "title": "Tentative date for publishing of CEN RPF-01/2024 and CEN RPF-02/2024",
-      "source": "RRB",
-      "link": "https://www.rrbcdg.gov.in/uploads/2024/Notice_RPF CEN 01_2024 & RPF CEN 02_2024.pdf",
-      "type": "PDF Notice",
-      "tag": "rrb",
-      "scope": "RRB",
-      "pdf": true,
-      "description": "CENs-RPF/2024 : Date of publishing Notice",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
-    },
-    {
-      "id": 36413,
-      "title": "CEN No. RPF 01/2024 for the post of Sub-Inspector (Executive)",
-      "source": "RRB",
-      "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF01-SI/CEN 2024-01 RPF-SI.pdf",
-      "type": "PDF Notice",
-      "tag": "rrb",
-      "scope": "RRB",
-      "pdf": true,
-      "description": "RPF 01/2024 (Sub-Inspector) : Centralised Employment Notice / \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e Notice : \u0938\u0942\u091a\u0928\u093e : \u0909\u092a-\u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0915 (\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940) \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.(\u0906\u0930\u092a\u0940\u090f\u092b) 01/2024 Link / \u0932\u093f\u0902\u0915 : Click here to apply / \u0906\u0935\u0947\u0926\u0928 \u0915\u0930\u0928\u0947 \u0915\u093e \u0932\u093f\u090f \u092f\u0939\u093e\u0901 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0947\u0902",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
-    },
-    {
-      "id": 36322,
+      "id": 36508,
       "title": "Railway Recruitment Board, Chandigarh",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/",
@@ -203,10 +169,36 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Content Developed & Owned by",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:31"
+      "scrapedAt": "2026-06-06 13:13:48"
     },
     {
-      "id": 36412,
+      "id": 36600,
+      "title": "Tentative date for publishing of CEN RPF-01/2024 and CEN RPF-02/2024",
+      "source": "RRB",
+      "link": "https://www.rrbcdg.gov.in/uploads/2024/Notice_RPF CEN 01_2024 & RPF CEN 02_2024.pdf",
+      "type": "PDF Notice",
+      "tag": "rrb",
+      "scope": "RRB",
+      "pdf": true,
+      "description": "CENs-RPF/2024 : Date of publishing Notice",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:13:47"
+    },
+    {
+      "id": 36599,
+      "title": "CEN No. RPF 01/2024 for the post of Sub-Inspector (Executive)",
+      "source": "RRB",
+      "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF01-SI/CEN 2024-01 RPF-SI.pdf",
+      "type": "PDF Notice",
+      "tag": "rrb",
+      "scope": "RRB",
+      "pdf": true,
+      "description": "RPF 01/2024 (Sub-Inspector) : Centralised Employment Notice / \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e Notice : \u0938\u0942\u091a\u0928\u093e : \u0909\u092a-\u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0915 (\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940) \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.(\u0906\u0930\u092a\u0940\u090f\u092b) 01/2024 Link / \u0932\u093f\u0902\u0915 : Click here to apply / \u0906\u0935\u0947\u0926\u0928 \u0915\u0930\u0928\u0947 \u0915\u093e \u0932\u093f\u090f \u092f\u0939\u093e\u0901 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0947\u0902",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:13:47"
+    },
+    {
+      "id": 36598,
       "title": "CEN No. RPF 02/2024 for the post of Constable (Executive)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF02-CONS/CEN 2024-02 RPF-Const.pdf",
@@ -216,10 +208,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "RPF 02/2024 (Constable) : Centralised Employment Notice / \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e Notice : \u0938\u0942\u091a\u0928\u093e : \u0915\u093e\u0902\u0938\u094d\u091f\u0947\u092c\u0932 (\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940) \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.(\u0906\u0930\u092a\u0940\u090f\u092b) 02/2024 Link / \u0932\u093f\u0902\u0915 : Click here to apply / \u0906\u0935\u0947\u0926\u0928 \u0915\u0930\u0928\u0947 \u0915\u093e \u0932\u093f\u090f \u092f\u0939\u093e\u0901 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0947\u0902",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36411,
+      "id": 36597,
       "title": "Additional Panel-6 for the post of \"Chemical & Metallurgical Assistant\" of CEN-03/2018",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2018/03-JE/03-2018 AP6.pdf",
@@ -229,10 +221,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-03/2018 (CMA) : Additional Panel-6 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36410,
+      "id": 36596,
       "title": "Additional Panel-7 for the post of \"Junior Engineers\" of CEN-03/2018",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2018/03-JE/03-2018 AP7.pdf",
@@ -242,10 +234,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-03/2018 (JE) : Additional Panel-7 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36409,
+      "id": 36595,
       "title": "Additional Panel-6 for the posts of Technicians of CEN-01/2018",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2018/01-TECH/01-2018 AP6.pdf",
@@ -255,10 +247,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2018 (Technicians) : Additional Panel-6 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36408,
+      "id": 36594,
       "title": "Additional Panel-7 for the posts of Technicians of CEN-01/2018",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2018/01-ALP&T/01-2018 AP7.pdf",
@@ -268,10 +260,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 01/2018 (Technicians) : Additional Panel-7 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36407,
+      "id": 36593,
       "title": "Notice for access to upload fresh photograph & signature for the ALP applicants (CEN 01/2024) who have not uploaded standard photo & Signature",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/Uploading of foto & signature.pdf",
@@ -281,10 +273,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : Uploading of photo & sign Notice : \u0938\u0942\u091a\u0928\u093e : \u090f\u090f\u0932\u092a\u0940 \u0906\u0935\u0947\u0926\u0915\u094b\u0902 (\u0938\u0940\u0908\u090f\u0928 01/2024) \u0915\u0947 \u0932\u093f\u090f \u0928\u0908 \u0924\u0938\u094d\u0935\u0940\u0930 \u0914\u0930 \u0939\u0938\u094d\u0924\u093e\u0915\u094d\u0937\u0930 \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0915\u0947 \u0932\u093f\u090f \u0938\u0942\u091a\u0928\u093e, \u091c\u093f\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u092e\u093e\u0928\u0915 \u092b\u094b\u091f\u094b \u0914\u0930 \u0939\u0938\u094d\u0924\u093e\u0915\u094d\u0937\u0930 \u0905\u092a\u0932\u094b\u0921 \u0928\u0939\u0940\u0902 \u0915\u093f\u090f \u0939\u0948\u0902",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36406,
+      "id": 36592,
       "title": "Notice for access to upload fresh photograph & Signature for the Technician applicants (CEN 02/2024) who have not uploaded standard photo & Signature",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Notice for uploading Photo and signature_CEN 02-2024(Technician)_English.pdf",
@@ -294,10 +286,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Uploading of photo & sign Notice : \u0938\u0942\u091a\u0928\u093e : \u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928 \u0906\u0935\u0947\u0926\u0915\u094b\u0902 (\u0938\u0940\u0908\u090f\u0928 02/2024) \u0915\u0947 \u0932\u093f\u090f \u0928\u0908 \u0924\u0938\u094d\u0935\u0940\u0930 \u0914\u0930 \u0939\u0938\u094d\u0924\u093e\u0915\u094d\u0937\u0930 \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0915\u0947 \u0932\u093f\u090f \u0938\u0942\u091a\u0928\u093e, \u091c\u093f\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u092e\u093e\u0928\u0915 \u092b\u094b\u091f\u094b \u0914\u0930 \u0939\u0938\u094d\u0924\u093e\u0915\u094d\u0937\u0930 \u0905\u092a\u0932\u094b\u0921 \u0928\u0939\u0940\u0902 \u0915\u093f\u090f \u0939\u0948\u0902",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36405,
+      "id": 36591,
       "title": "Additional Panel-3 for paramedical posts of CEN-02/2019",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2019/02-PMED/02-2019 AP3.pdf",
@@ -307,10 +299,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2019 (Paramedical) : Additional Panel-3 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36404,
+      "id": 36590,
       "title": "Notice regarding enhancement in the number of vacancies for the post of ALP in CEN 01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/CEN012024 Vacancy Enhancement.pdf",
@@ -320,10 +312,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : Enhancement in the number of vancancies Notice : \u0938\u0942\u091a\u0928\u093e : \u090f\u090f\u0932\u092a\u0940 \u092a\u0926 \u0915\u0940 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092e\u0947\u0902 \u0935\u0943\u0926\u094d\u0927\u093f \u0915\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927 \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36403,
+      "id": 36589,
       "title": "Corrigendum No.1 regarding enhancement of notified vacancies for the post of ALP of CEN 01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/Corrigendum1",
@@ -333,10 +325,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN-01/2024 (ALP) : Corrigendum No.1 Notice : \u0938\u0942\u091a\u0928\u093e : \u090f\u090f\u0932\u092a\u0940 \u092a\u0926 \u0915\u0947 \u0932\u093f\u090f \u0905\u0927\u093f\u0938\u0942\u091a\u093f\u0924 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0935\u0943\u0926\u094d\u0927\u093f \u0939\u0947\u0924\u0941 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930 \u0938\u0902. 1",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36402,
+      "id": 36588,
       "title": "Additional Panel-4 for paramedical posts of CEN-02/2019",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2019/02-PMED/02-2019 AP4.pdf",
@@ -346,10 +338,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2019 (Paramedical) : Additional Panel-4 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36401,
+      "id": 36587,
       "title": "Additional Panel-5 for paramedical posts of CEN-02/2019",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2019/02-PMED/02-2019 AP5.pdf",
@@ -359,10 +351,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2019 (Paramedical) : Additional Panel-5 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36400,
+      "id": 36586,
       "title": "FAQs regarding application process for various posts of JE / DMS / CMA / CS / MS in CEN 03/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/03-JE/FAQ CEN 03 2024 JEs English.pdf",
@@ -372,10 +364,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN No.03/2024 (JE/DMS/CMA/CS/MS) : Frequently Asked Questions / \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928 Notice : \u0938\u0942\u091a\u0928\u093e : \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.03/2024 \u0915\u0947 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0938\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f\u0924 \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36399,
+      "id": 36585,
       "title": "Additional Panel-6 for paramedical posts of CEN-02/2019",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2019/02-PMED/02-2019 AP6.pdf",
@@ -385,10 +377,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2019 (Paramedical) : Additional Panel-6 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36398,
+      "id": 36584,
       "title": "FAQs regarding application process for various posts of Paramedical categories in CEN 04/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/04-PMED/FAQ paramedical 02-2024.pdf",
@@ -398,10 +390,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-04/2024 (Paramedical) : Frequently Asked Questions Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36397,
+      "id": 36583,
       "title": "Corrigendum & addendum no. 1 regarding enhancement of notified vacancies for the post of technicians of CEN 02/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Corrigendum1.pdf",
@@ -411,10 +403,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Corrigendum / Addendum No.1 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36396,
+      "id": 36582,
       "title": "Corrigendum-1 for CEN 05-2024 NTPC-Graduate posts",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/Corrigendum-1.pdf",
@@ -424,10 +416,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-05/2024 (NTPC-Graduate) : Corrigendum-1 / \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-\u0967 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36395,
+      "id": 36581,
       "title": "FAQs regarding application process for various Graduate posts of CEN 05/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/05-2024 FAQs.pdf",
@@ -437,10 +429,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-05/2024 (NTPC-Graduate) : Frequently Asked Questions / \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928 Notice : \u0938\u0942\u091a\u0928\u093e : \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.05/2024 \u0915\u0947 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u0938\u094d\u0928\u093e\u0924\u0915 \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0938\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f\u0924 \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36394,
+      "id": 36580,
       "title": "FAQs regarding application process for various undergraduate posts of CEN 06/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/06-NTPCUG/06-2024 FAQs.pdf",
@@ -450,10 +442,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-06/2024 (NTPC-Undergraduate) : Frequently Asked Questions / \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928 Notice : \u0938\u0942\u091a\u0928\u093e : \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.06/2024 \u0915\u0947 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0938\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f\u0924 \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36393,
+      "id": 36579,
       "title": "Corrigendum-2 regarding revision of notified vacancies of CEN 05-2024 NTPC-Graduate posts",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/Corrigendum-2.pdf",
@@ -463,10 +455,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-05/2024 (NTPC-Graduate) : Corrigendum-2 / \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-\u0968 Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 05-2024 \u090f\u0928\u091f\u0940\u092a\u0940\u0938\u0940-\u0938\u094d\u0928\u093e\u0924\u0915 \u092a\u0926\u094b\u0902 \u0915\u0940 \u0905\u0927\u093f\u0938\u0942\u091a\u093f\u0924 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u0902\u0936\u094b\u0927\u0928 \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-\u0968",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36392,
+      "id": 36578,
       "title": "Tentative exam schedule for CEN 01/2024 (ALP), CEN 01/2024 (RPF- SI), CEN 02/2024 (Technician) & CEN 03/2024 (JE/CMA/MS)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/CBT-1_Tentative Exam Schedule1.pdf",
@@ -476,10 +468,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Tentative Exam-Schedule Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928-01/2024 (\u090f\u090f\u0932\u092a\u0940), \u0938\u0940\u0908\u090f\u0928-\u0906\u0930\u092a\u0940\u090f\u092b 01/2024 (\u090f\u0938\u0906\u0908), \u0938\u0940\u0908\u090f\u0928-02/2024 (\u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928) \u0914\u0930 \u0938\u0940\u0908\u090f\u0928-03/2024 (\u091c\u0947\u0908, \u0938\u0940\u090f\u092e\u090f \u0914\u0930 \u0927\u093e\u0924\u0941\u0915\u0930\u094d\u092e \u092a\u0930\u094d\u092f\u0935\u0947\u0915\u094d\u0937\u0915) \u0915\u0940 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0936\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e-\u0905\u0928\u0941\u0938\u0942\u091a\u0940",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36391,
+      "id": 36577,
       "title": "Corrigendum-1 regarding revision of notified vacancies for CEN 06-2024 NTPC-Undergraduate posts",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/06-NTPCUG/Corrigendum-1.pdf",
@@ -489,10 +481,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-06/2024 (NTPC-Undergraduate) : Corrigendum-1 / \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-\u0967 Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 06-2024 \u090f\u0928\u091f\u0940\u092a\u0940\u0938\u0940-\u0938\u094d\u0928\u093e\u0924\u0915 \u092a\u0926\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0905\u0927\u093f\u0938\u0942\u091a\u093f\u0924 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u0902\u0936\u094b\u0927\u0928 \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-1",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36390,
+      "id": 36576,
       "title": "Revised Tentative exam schedule for CEN 01/2024, 02/2024, 03/2024 & 01/2024(RPF)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/CBT-1_Tentative Exam Schedule2.pdf",
@@ -502,10 +494,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Tentative Exam-Schedule (Rev-1) Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928-01/2024, 02/2024, 03/2024 \u0914\u0930 01/2024(\u0906\u0930\u092a\u0940\u090f\u092b) \u0915\u0940 \u0938\u0902\u0936\u094b\u0927\u093f\u0924 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0936\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e-\u0905\u0928\u0941\u0938\u0942\u091a\u0940",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36389,
+      "id": 36575,
       "title": "Tentative exam-dates for Computer Based Test of CEN 01/2024, 02/2024, 03/2024 & 01/2024(RPF)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/CBT-1_Tentative Exam Schedule3.pdf",
@@ -515,10 +507,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Tentative Exam-Schedule (Rev-2) Notice : \u0938\u0942\u091a\u0928\u093e : \u0915\u0902\u092a\u094d\u092f\u0941\u091f\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e\u0913\u0902 \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u0924\u093f\u0925\u093f\u092f\u093e\u0902 - \u0938\u0940\u0908\u090f\u0928 01/2024, 02/2024, 03/2024 \u0914\u0930 01/2024 (\u0906\u0930\u092a\u0940\u090f\u092b) \u0939\u0947\u0924\u0941",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36386,
+      "id": 36572,
       "title": "Revised Tentative exam-dates for Computer Based Test of CENs: 01/2024 (RPF-SI), 03/2024 (JE & others) and 02/2024 (Technician)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/CBT-1_Tentative Exam Schedule4.pdf",
@@ -528,10 +520,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Tentative Exam-Dates (Rev-3) Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 : 01/2024 (\u0906\u0930\u092a\u0940\u090f\u092b-\u090f\u0938\u0906\u0908), 03/2024 (\u091c\u0947\u0908 \u0935 \u0905\u0928\u094d\u092f) \u0914\u0930 02/2024 (\u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928) \u0915\u0940 \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u0932\u093f\u090f \u0938\u0902\u0936\u094b\u0927\u093f\u0924 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0924\u093f\u0925\u093f\u092f\u093e\u0902",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36385,
+      "id": 36571,
       "title": "Additional Panel-7 for paramedical posts of CEN-02/2019",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2019/02-PMED/02-2019 AP7.pdf",
@@ -541,23 +533,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 02/2019 (Paramedical) : Additional Panel-7 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36384,
-      "title": "Exam-dates for Computer Based Test of CEN 02/2024 (Technician) and 03/2024 (JE/DMS/CMA)",
-      "source": "RRB",
-      "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Final Exam Dates.pdf",
-      "type": "PDF Notice",
-      "tag": "rrb",
-      "scope": "RRB",
-      "pdf": true,
-      "description": "CEN 02/2024 & 03/2024 : Exam-Dates for CBT Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 02/2024 (\u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928) 03/2024 (\u091c\u0947\u0908 \u0935 \u0905\u0928\u094d\u092f) \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u0932\u093f\u090f \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0924\u093f\u0925\u093f\u092f\u093e\u0902",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
-    },
-    {
-      "id": 36324,
+      "id": 36510,
       "title": "Click here for Mock Test of CEN-RPF 01/2024 (SI)",
       "source": "RRB",
       "link": "https://www4.digialm.com/OnlineAssessment/index.html?1181@@M12",
@@ -567,10 +546,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2024 (ALP) & RPF 01/2024 (SI) : MOCK TEST Notice : Mock Test to familiarize the candidates about the processes of Computer Based Test (CBT) \u0938\u0942\u091a\u0928\u093e : \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u091f\u0947\u0938\u094d\u091f (\u0938\u0940\u092c\u0940\u091f\u0940) \u0915\u0940 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e\u0913\u0902 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0909\u092e\u094d\u092e\u0940\u0926\u0935\u093e\u0930\u094b\u0902 \u0915\u094b \u092a\u0930\u093f\u091a\u093f\u0924 \u0915\u0930\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092e\u0949\u0915 \u091f\u0947\u0938\u094d\u091f ALP : Click here for Mock Test of CEN-01/2024 (ALP) RPF SI",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36315,
+      "id": 36501,
       "title": "Click here for Mock Test of CEN-01/2024 (ALP)",
       "source": "RRB",
       "link": "https://www4.digialm.com//OnlineAssessment/index.html?1181@@M11",
@@ -580,10 +559,23 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Click here for Mock Test of CEN-01/2024 (ALP)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:30"
+      "scrapedAt": "2026-06-06 13:13:47"
     },
     {
-      "id": 36383,
+      "id": 36570,
+      "title": "Exam-dates for Computer Based Test of CEN 02/2024 (Technician) and 03/2024 (JE/DMS/CMA)",
+      "source": "RRB",
+      "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/Final Exam Dates.pdf",
+      "type": "PDF Notice",
+      "tag": "rrb",
+      "scope": "RRB",
+      "pdf": true,
+      "description": "CEN 02/2024 & 03/2024 : Exam-Dates for CBT Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 02/2024 (\u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928) 03/2024 (\u091c\u0947\u0908 \u0935 \u0905\u0928\u094d\u092f) \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u0932\u093f\u090f \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0924\u093f\u0925\u093f\u092f\u093e\u0902",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:13:46"
+    },
+    {
+      "id": 36569,
       "title": "Corrigendum-1 to the CEN 07/2024 regarding Important-Dates & Suitability of PwD Candidates for various posts of ministerial & isolated categories",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/07-M&I/2024-07 - Corrigendum1.pdf",
@@ -593,10 +585,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-07/2024 (Min & Iso) : Corrigendum-1 Notice : \u0938\u0942\u091a\u0928\u093e : \u092e\u093f\u0928\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u0932 \u0914\u0930 \u0906\u0907\u0938\u094b\u0932\u0947\u091f\u093f\u0921 \u0915\u094b\u091f\u093f\u092f\u094b\u0902 \u0915\u0947 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u0926\u094b\u0902 \u0915\u0940 \u092d\u0930\u094d\u0924\u0940 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928-\u0924\u093f\u0925\u093f\u092f\u094b\u0902 \u0935 \u092c\u0947\u0902\u091a\u092e\u093e\u0930\u094d\u0915 \u0926\u093f\u0935\u094d\u092f\u0902\u0917\u0924\u093e \u0935\u093e\u0932\u0947 \u0905\u092d\u094d\u092f\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0940 \u0909\u092a\u092f\u0941\u0915\u094d\u0924\u0924\u093e \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-1",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36382,
+      "id": 36568,
       "title": "Corrigendum-2 regarding eligibilty criteria for category no.59,60,61,62,64,65 & 66 of CEN 07/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/07-M&I/2024-07 - Corrigendum2.pdf",
@@ -606,10 +598,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-07/2024 (Min & Iso) : Corrigendum-2 Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 07/2024 \u0915\u0940 \u0915\u094b\u091f\u0940 \u0938\u0902. 59,60,61,62,64,65 \u0914\u0930 66 \u0939\u0947\u0924\u0941 \u0936\u0948\u0915\u094d\u0937\u093f\u0915 \u092f\u094b\u0917\u094d\u092f\u0924\u093e \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-2",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36381,
+      "id": 36567,
       "title": "Tentative dates for 2nd Stage of Computer Based Test (CBT-2) of CEN 01/2024(ALP) and 03/2024(JEs)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/CBT-2_ALP_JE_Tentative Exam Schedule1.pdf",
@@ -619,10 +611,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024(ALP) & 03/2024(JEs) : Tentative Exam-Dates for CBT-2 Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 01/2024(\u0938\u0939\u093e\u092f\u0915 \u0932\u094b\u0915\u094b \u092a\u093e\u092f\u0932\u091f) \u0914\u0930 03/2024 (\u091c\u0947\u0908 \u0935 \u0905\u0928\u094d\u092f) \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0926\u093f\u0924\u0940\u092f \u091a\u0930\u0923 \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e (\u0938\u0940\u092c\u0940\u091f\u0940-II) \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u0924\u093f\u0925\u093f\u092f\u093e\u0901",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36380,
+      "id": 36566,
       "title": "Notice for submission of latest Community & Caste Certificate via Email by all \"Application Accepted\" candidates of CEN RPF 02/2024 (Constable) who belong to specific castes but mentioned their community as SC in the online submitted application",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF02-CONS/RPF022024-Tanti-Tatwa caste_SC to OBC_Bihar_candidates25.02.2025.pdf",
@@ -632,10 +624,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Notice for submission of latest Community & Caste Certificate via Email by all \"Application Accepted\" candidates of CEN RPF 02/2024 (Constable) who belong to specific castes but mentioned their community as SC in the online submitted application",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36379,
+      "id": 36565,
       "title": "RESULT of first stage exam (CBT-1) for the post of ALP against CEN 01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/01-ALP/CBT1-Result.pdf",
@@ -645,10 +637,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2024 (ALP) : CBT-1 Result & Cut-Off Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 01/2024 \u0915\u0947 \u0924\u0939\u0924 \u090f\u090f\u0932\u092a\u0940 \u0915\u0947 \u092a\u0926 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0925\u092e \u091a\u0930\u0923 \u0915\u0940 \u092a\u0930\u0940\u0915\u094d\u0937\u093e (\u0938\u0940\u092c\u0940\u091f\u0940-1) \u0915\u093e \u092a\u0930\u093f\u0923\u093e\u092e Notice : CUT-OFF Normalised marks of candidates shortlisted for CBT-2 \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u092c\u0940\u091f\u0940-2 \u0915\u0947 \u0932\u093f\u090f \u091a\u0941\u0928\u0947 \u0917\u090f \u0909\u092e\u094d\u092e\u0940\u0926\u0935\u093e\u0930\u094b\u0902 \u0915\u0947 \u0938\u093e\u092e\u093e\u0928\u094d\u092f\u0940\u0915\u0943\u0924 \u0915\u091f-\u0911\u092b \u0905\u0902\u0915",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36378,
+      "id": 36564,
       "title": "RESULT of Computer-Based-Test (CBT) for the post of S.I. against CEN RPF 01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF01-SI/RPF_01-2024_SI_CBT_RESULT.pdf",
@@ -658,10 +650,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "RESULT of Computer-Based-Test (CBT) for the post of S.I. against CEN RPF 01/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36377,
+      "id": 36563,
       "title": "Tentative schedule for 2nd Stage of Computer Based Test (CBT-2) of CEN 01/2024(ALP), 03/2024(JEs) & exam dates for CBT of RPF 02/2024 (Constable)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/CBT-2_ALP_JE_Tentative Exam Schedule2.pdf",
@@ -671,10 +663,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 01/2024(ALP), 03/2024 (JEs) & RPF 02/2024 (Constable) : Tentative Exam-Schedule for CBT Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 01/2024(\u0938\u0939\u093e\u092f\u0915 \u0932\u094b\u0915\u094b \u092a\u093e\u092f\u0932\u091f) \u0914\u0930 03/2024 (\u091c\u0947\u0908 \u0935 \u0905\u0928\u094d\u092f) \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0938\u0940\u092c\u0940\u091f\u0940-2 \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u0935 \u0906\u0930\u092a\u0940\u090f\u092b 02/2024 (\u0915\u093e\u0902\u0938\u094d\u091f\u0947\u092c\u0932) \u0915\u0940 \u0928\u093f\u0936\u094d\u091a\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e-\u0924\u093f\u0925\u093f\u092f\u093e\u0901",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36376,
+      "id": 36562,
       "title": "Corrigendum-1 to the CBT result & cut-off marks of Female candidates for the post of Sub-Inspector under CEN RPF 01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF01-SI/RPF_012024_SI_CBT_RESULT-Corrigendum_Female.pdf",
@@ -684,10 +676,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN RPF-01/2024 (S.I.-Female) : CBT Corrigendum-1 Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 \u0906\u0930\u092a\u0940\u090f\u092b 01/2024 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0938\u092c-\u0907\u0902\u0938\u094d\u092a\u0947\u0915\u094d\u091f\u0930 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u092e\u0939\u093f\u0932\u093e \u0905\u092d\u094d\u092f\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u0940\u092c\u0940\u091f\u0940 \u092a\u0930\u093f\u0923\u093e\u092e \u0935 \u0915\u091f-\u0911\u092b \u0905\u0902\u0915\u094b\u0902 \u0915\u093e \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-1",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36375,
+      "id": 36561,
       "title": "Tentative schedule of the Computer-Based Test (CBT) for various paramedical posts under CEN 04/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/04-PMED/CEN04-2024_Paramedical-TentativeSchedulefor_CBT.pdf",
@@ -697,10 +689,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 04/2024 (Paramedical) : Tentative Schedule of CBT Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 04/2024 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u0948\u0930\u093e\u092e\u0947\u0921\u093f\u0915\u0932 \u092a\u0926\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930-\u0906\u0927\u093e\u0930\u093f\u0924 \u091f\u0947\u0938\u094d\u091f (\u0938\u0940\u092c\u0940\u091f\u0940) \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u0924\u093f\u0925\u093f\u092f\u093e\u0901",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36374,
+      "id": 36560,
       "title": "FAQs regarding application process for the post of ALP under CEN 01/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/01-ALP/FAQs CEN 01-2025 (ALP).pdf",
@@ -710,10 +702,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 01/2025 (ALP) : Frequently Asked Questions Notice : \u0938\u0942\u091a\u0928\u093e : \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.01/2025 \u0915\u0947 \u0924\u0939\u0924 \u090f.\u090f\u0932.\u092a\u0940. \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0938\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f\u0924 \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36373,
+      "id": 36559,
       "title": "Notice for submission of latest Community & Caste Certificate via Email by all \"Application Accepted\" candidates of CEN 06/2024 (NTPC-Undergraduate) who belong to specific castes but mentioned their community as SC in the online submitted application",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/06-NTPCUG/CEN_06_2024_Under Graduate.pdf",
@@ -723,10 +715,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Notice for submission of latest Community & Caste Certificate via Email by all \"Application Accepted\" candidates of CEN 06/2024 (NTPC-Undergraduate) who belong to specific castes but mentioned their community as SC in the online submitted application",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36372,
+      "id": 36558,
       "title": "Notice for submission of latest Community & Caste Certificate via Email by all \"Application Accepted\" candidates of CEN 05/2024 (NTPC-Graduate) who belong to specific castes but mentioned their community as SC in the online submitted application",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/CEN_05_2024_Graduate.pdf",
@@ -736,10 +728,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Notice for submission of latest Community & Caste Certificate via Email by all \"Application Accepted\" candidates of CEN 05/2024 (NTPC-Graduate) who belong to specific castes but mentioned their community as SC in the online submitted application",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36371,
+      "id": 36557,
       "title": "Corrigendum-1 to CEN 01/2025-ALP regarding the extension of application & modification window dates",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/01-ALP/012025-Corrigendum-1.pdf",
@@ -749,10 +741,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 01/2025 (ALP) : Corrigendum-I Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 01/2025 \u0915\u0947 \u0938\u0939\u093e\u092f\u0915 \u0932\u094b\u0915\u094b \u092a\u093e\u092f\u0932\u091f \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u090f\u0935\u0902 \u0938\u0902\u0936\u094b\u0927\u0928-\u0935\u093f\u0902\u0921\u094b \u0915\u0940 \u0905\u0902\u0924\u093f\u092e \u0924\u093f\u0925\u093f\u092f\u094b\u0902 \u0915\u094b \u092c\u095d\u093e\u0928\u0947 \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-1",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36370,
+      "id": 36556,
       "title": "Notice on application status for NTPC-Graduate categories under CEN 05/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/052024-Application_Status.pdf",
@@ -762,10 +754,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 05/2024 (NTPC-G) : Application Status Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 05/2024 \u0915\u0947 \u0905\u0928\u094d\u0924\u0930\u094d\u0917\u0924 \u090f\u0928\u091f\u0940\u092a\u0940\u0938\u0940 \u0938\u094d\u0928\u093e\u0924\u0915 \u0936\u094d\u0930\u0947\u0923\u093f\u092f\u094b\u0902 \u0915\u0947 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Link / \u0932\u093f\u0902\u0915 : Click here / \u092f\u0939\u093e\u0901 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0947\u0902",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36369,
+      "id": 36555,
       "title": "Updated Cut-Off marks of CEN-01/2019 (NTPC) as per latest Part/Replacement Panel - \u0928\u0935\u0940\u0928\u0924\u092e \u0905\u0928\u0902\u0924\u093f\u092e \u092a\u093e\u0930\u094d\u091f / \u092a\u094d\u0930\u0924\u093f\u0938\u094d\u0925\u093e\u092a\u0928 \u092a\u0948\u0928\u0932 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930 \u0938\u0940\u0908\u090f\u0928-01/2019 (\u090f\u0928\u091f\u0940\u092a\u0940\u0938\u0940) \u0915\u0947 \u0905\u0926\u094d\u092f\u0924\u093f\u0924 \u0915\u091f-\u0911\u092b \u0905\u0902\u0915",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2019/01-NTPC/NTPC_2019CutOff_as_on_16.06.2025.pdf",
@@ -775,10 +767,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 01/2019 (NTPC) : Updated Cut-Off Marks Notice / \u0938\u0942\u091a\u0928\u093e",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36368,
+      "id": 36554,
       "title": "Panel Issuance for notified vacancies of Technicians under CEN 02/2024 - \u0938\u0940\u0908\u090f\u0928 02/2024 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u091f\u0947\u0915\u094d\u0928\u0940\u0936\u093f\u092f\u0928 \u0915\u0940 \u0905\u0927\u093f\u0938\u0942\u091a\u093f\u0924 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u0939\u0947\u0924\u0941 \u092a\u0948\u0928\u0932 \u091c\u093e\u0930\u0940\u0915\u0930\u0923 \u0915\u0940 \u0938\u0942\u091a\u0928\u093e",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/CEN-02-2024_PANEL.pdf",
@@ -788,10 +780,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 02/2024 (Technicians) : PANEL & CUT-OFF PANEL : CUT-OFF MARKS : Normalized cut-off marks of empanelled candidates - \u092a\u0948\u0928\u0932 \u092e\u0947\u0902 \u0938\u0942\u091a\u0940\u092c\u0926\u094d\u0927 \u0905\u092d\u094d\u092f\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u092e\u093e\u0928\u094d\u092f\u0940\u0915\u0943\u0924 \u0915\u091f-\u0911\u092b \u0905\u0902\u0915",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36367,
+      "id": 36553,
       "title": "FAQs regarding application process for the post of Technician under CEN 02/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/02-TECH/022025-FAQs.pdf",
@@ -801,10 +793,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2025 (Technician) : Frequently Asked Questions Notice : \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 02/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928\u093e\u0930\u094d\u0925 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:29"
+      "scrapedAt": "2026-06-06 13:13:46"
     },
     {
-      "id": 36366,
+      "id": 36552,
       "title": "Panel for the post of Sub-Inspector (Executive) against CEN RPF 01/2024 / \u0938\u0940\u0908\u090f\u0928 \u0906\u0930\u092a\u0940\u090f\u092b 01/2024 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0909\u092a \u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0915 (\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940) \u0915\u0947 \u092a\u0926 \u0915\u0947 \u0932\u093f\u090f \u092a\u0948\u0928\u0932",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF01-SI/RPF012024SI-PanelResult.pdf",
@@ -814,10 +806,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN RPF 01/2024 (Sub-Inspector) : Panel & Cut-Off Result / \u092a\u0930\u093f\u0923\u093e\u092e : CUT-OFF / \u0915\u091f-\u0911\u092b: Normalised Cut-Off marks (Scaled to 100) of empanelled candidates / \u092a\u0948\u0928\u0932 \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0905\u092d\u094d\u092f\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u092e\u093e\u0928\u094d\u092f\u0940\u0915\u0943\u0924 (100 \u0924\u0915 \u0938\u094d\u0915\u0947\u0932 \u0915\u093f\u090f \u0917\u090f) \u0915\u091f-\u0911\u092b \u0905\u0902\u0915",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36365,
+      "id": 36551,
       "title": "\u0938\u0940\u0908\u090f\u0928 02/2024 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u091f\u0947\u0915\u094d\u0928\u0940\u0936\u093f\u092f\u0928 \u0915\u0940 \u0905\u0927\u093f\u0938\u0942\u091a\u093f\u0924 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u0939\u0947\u0924\u0941 \u092a\u093e\u0930\u094d\u091f \u092a\u0948\u0928\u0932-1 \u091c\u093e\u0930\u0940\u0915\u0930\u0923 \u0915\u0940 \u0938\u0942\u091a\u0928\u093e / Issuance of Part Panel-1 for Technicians under CEN 02/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/02-TECH/022024-Tech_PartPanel1.pdf",
@@ -827,10 +819,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2024 (Technician) : Part Panel-1 \u0938\u0942\u091a\u0940 / List",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36364,
+      "id": 36550,
       "title": "Indicative notice regarding publishing of CEN No. 04/2025 for the post of Section Controller",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/042024-SectionController_IndicativeNotice.pdf",
@@ -840,10 +832,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 04/2025 (Section Controller) : Indicative Notice / \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u0938\u0942\u091a\u0928\u093e \u0938\u0942\u091a\u0928\u093e : \u0938\u0947\u0915\u094d\u0936\u0928 \u0915\u0902\u091f\u094d\u0930\u094b\u0932\u0930 \u092a\u0926 \u0915\u0940 \u092d\u0930\u094d\u0924\u0940 \u0939\u0947\u0924\u0941 \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902. 04/2025 \u0915\u0947 \u092a\u094d\u0930\u0915\u093e\u0936\u0928 \u0939\u0947\u0924\u0941 \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u0938\u0942\u091a\u0928\u093e Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36363,
+      "id": 36549,
       "title": "FAQs regarding application process for the post of Section Controller under CEN 04/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/042024-FAQs.pdf",
@@ -853,10 +845,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 04/2025 (Section Controller) : Frequently Asked Questions \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 04/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0938\u0947\u0915\u094d\u0936\u0928 \u0915\u0902\u091f\u094d\u0930\u094b\u0932\u0930 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928\u093e\u0930\u094d\u0925 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36362,
+      "id": 36548,
       "title": "\u0938\u0940\u0908\u090f\u0928 06/2025 \u0915\u0947 \u0906\u0935\u0947\u0926\u0928\u093e\u0930\u094d\u0925 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 / Frequently asked questions regarding application process for NTPC posts under CEN 06/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/06-NTPCG/062025NTPCG-ApplicationFAQs.pdf",
@@ -866,10 +858,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "\u0938\u0940\u0908\u090f\u0928 06/2025 \u0915\u0947 \u0906\u0935\u0947\u0926\u0928\u093e\u0930\u094d\u0925 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 / Frequently asked questions regarding application process for NTPC posts under CEN 06/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36361,
+      "id": 36547,
       "title": "\u0938\u0940\u0908\u090f\u0928 07/2025 \u0915\u0947 \u0906\u0935\u0947\u0926\u0928\u093e\u0930\u094d\u0925 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 / Frequently asked questions regarding application process for NTPC posts under CEN 07/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-ApplicationFAQs.pdf",
@@ -879,10 +871,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "\u0938\u0940\u0908\u090f\u0928 07/2025 \u0915\u0947 \u0906\u0935\u0947\u0926\u0928\u093e\u0930\u094d\u0925 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 / Frequently asked questions regarding application process for NTPC posts under CEN 07/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36360,
+      "id": 36546,
       "title": "Frequently asked questions regarding application process for CEN 05/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/05-JE/052025JE-ApplicationFAQs.pdf",
@@ -892,10 +884,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Frequently asked questions regarding application process for CEN 05/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36359,
+      "id": 36545,
       "title": "Corrigendum-1 regarding enhancement in vacancies of JE/DMS published in CEN 05/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/05-JE/052025JE-Corrigendum1.pdf",
@@ -905,10 +897,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 05/2025 (JE/DMS) : Corrigendum-1 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930 : \u0938\u0940\u0908\u090f\u0928 05/2025 \u092e\u0947\u0902 \u092a\u094d\u0930\u0915\u093e\u0936\u093f\u0924 \u091c\u0947\u0908/\u0921\u0940\u090f\u092e\u090f\u0938 \u092a\u0926\u094b\u0902 \u0915\u0940 \u0905\u0927\u093f\u0938\u0942\u091a\u093f\u0924 \u0930\u093f\u0915\u094d\u0924\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0935\u0943\u0926\u094d\u0927\u093f \u0939\u0947\u0924\u0941 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930-1 Corrigendum",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36358,
+      "id": 36544,
       "title": "Regarding status of application for the post of ALP under CEN 01/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/01-ALP/012025ALP-ApplicationStatus.pdf",
@@ -918,10 +910,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2025 (ALP) : Application Status \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 01/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u090f\u090f\u0932\u092a\u0940 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Notice : \u0932\u093f\u0902\u0915 / Link : \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u092f\u0939\u093e\u0901 \u091a\u0947\u0915 \u0915\u0930\u0947\u0902 Check your application status here",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36357,
+      "id": 36543,
       "title": "Regarding status of application for the post of Technician under CEN 02/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/02-TECH/022025TECH-ApplicationStatus.pdf",
@@ -931,10 +923,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-02/2025 (Technician) : Application Status \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 02/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0924\u0915\u0928\u0940\u0936\u093f\u092f\u0928 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Notice : \u0932\u093f\u0902\u0915 / Link : \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u092f\u0939\u093e\u0901 \u091a\u0947\u0915 \u0915\u0930\u0947\u0902 Check your application status here",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36356,
+      "id": 36542,
       "title": "Regarding status of application for Paramedical posts under CEN 03/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-ApplicationStatus.pdf",
@@ -944,10 +936,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-03/2025 (Paramedical) : Application Status \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 03/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u092a\u0948\u0930\u093e\u092e\u0947\u0921\u093f\u0915\u0932 \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Notice : \u0932\u093f\u0902\u0915 / Link : \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u092f\u0939\u093e\u0901 \u091a\u0947\u0915 \u0915\u0930\u0947\u0902 Check your application status here",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36355,
+      "id": 36541,
       "title": "Regarding status of application for the post of Section Controller under CEN 04/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/042025SCTRL-ApplicationStatus.pdf",
@@ -957,10 +949,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-04/2025 (Section Controller) : Application Status \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 04/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0938\u0947\u0915\u094d\u0936\u0928 \u0915\u0902\u091f\u094d\u0930\u094b\u0932\u0930 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Notice : \u0932\u093f\u0902\u0915 / Link : \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u092f\u0939\u093e\u0901 \u091a\u0947\u0915 \u0915\u0930\u0947\u0902 Check your application status here",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36354,
+      "id": 36540,
       "title": "Tentative dates of CBT for the post of Section Controller under CEN 04/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/042025SCTRL-CBTSchedule.pdf",
@@ -970,10 +962,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-04/2025 (Section Controller) : CBT - Tentative Exam Schedule (11th & 12th Feb-2026) \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 04/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0938\u0947\u0915\u094d\u0936\u0928 \u0915\u0902\u091f\u094d\u0930\u094b\u0932\u0930 \u0915\u0947 \u092a\u0926 \u0939\u0947\u0924\u0941 \u0938\u0940\u092c\u0940\u091f\u0940 \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0924\u093f\u0925\u093f\u092f\u093e\u0901 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36353,
+      "id": 36539,
       "title": "Indicative notice of CEN 08/2025 regarding recruitment of isolsted categories",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/08-ISOL/082025-IndicativeNotice.pdf",
@@ -983,10 +975,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 08/2025 (Isolated) : Indicative Notice \u0938\u0942\u091a\u0928\u093e : \u0906\u0908\u0938\u094b\u0932\u0947\u091f\u093f\u0921 \u0915\u094b\u091f\u0940 \u0915\u0947 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u0926\u094b\u0902 \u0915\u0940 \u092d\u0930\u094d\u0924\u0940 \u0939\u0947\u0924\u0941 \u0938\u0940\u0908\u090f\u0928 08/2025 \u0915\u0940 \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u0938\u0942\u091a\u0928\u093e Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36352,
+      "id": 36538,
       "title": "Frequently asked questions regarding application process for CEN 08/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/08-ISOL/082025-ISOL_FAQs.pdf",
@@ -996,10 +988,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "Frequently asked questions regarding application process for CEN 08/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:45"
     },
     {
-      "id": 36351,
+      "id": 36537,
       "title": "FAQs regarding application process for various posts under CEN 09/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/09-LVL1/092025-FAQs.pdf",
@@ -1009,10 +1001,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 09/2025 (Level-1) : Frequently Asked Questions \u0938\u0942\u091a\u0928\u093e : \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902.09/2025 \u0915\u0947 \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0938\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f\u0924 \u092a\u094d\u0930\u093e\u092f: \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:28"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36350,
+      "id": 36536,
       "title": "\u0938\u0940\u0908\u090f\u0928 07/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0917\u0948\u0930-\u0938\u094d\u0928\u093e\u0924\u0915 \u090f\u0928\u091f\u0940\u092a\u0940\u0938\u0940 \u092a\u0926\u094b\u0902 \u0939\u0947\u0924\u0941 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Regarding status of application for NTPC Undergraduate posts under CEN 07/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-ApplicationStatus.pdf",
@@ -1022,10 +1014,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-07/2025 (NTPC-UG) : Application Status \u0938\u0942\u091a\u0928\u093e / Notice : \u0932\u093f\u0902\u0915 / Link : \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u092f\u0939\u093e\u0901 \u091a\u0947\u0915 \u0915\u0930\u0947\u0902 Check your application status here",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36349,
+      "id": 36535,
       "title": "\u0938\u0940\u0908\u090f\u0928 \u0906\u0930\u092a\u0940\u090f\u092b 02/2024 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0915\u093e\u0902\u0938\u094d\u091f\u0947\u092c\u0932 (\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940) \u0915\u0947 \u092a\u0926 \u0915\u0947 \u0932\u093f\u090f \u092a\u0948\u0928\u0932 Panel for the post of Constable (Executive) against CEN RPF 02/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2024/RPF02-CONS/RPF022024Constable-Panel.pdf",
@@ -1035,10 +1027,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN RPF 02/2024 (Constable) : Panel & Cut-Off Result / \u092a\u0930\u093f\u0923\u093e\u092e : CUT-OFF / \u0915\u091f-\u0911\u092b: \u092a\u0948\u0928\u0932 \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0905\u092d\u094d\u092f\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u092e\u093e\u0928\u094d\u092f\u0940\u0915\u0943\u0924 (100 \u0924\u0915 \u0938\u094d\u0915\u0947\u0932 \u0915\u093f\u090f \u0917\u090f) \u0915\u091f-\u0911\u092b \u0905\u0902\u0915 Normalised Cut-Off marks (Scaled to 100) of empanelled candidates /",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36348,
+      "id": 36534,
       "title": "Corrigendum-1 regarding corretion in Annexure-VI published in CEN 04/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/CEN042024-Corrigendum1.pdf",
@@ -1048,10 +1040,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-04/2025 (Section Controller) : Corrigendum-1 Correction in Annexure-VI \u0938\u0942\u091a\u0928\u093e : \u0938\u0940\u0908\u090f\u0928 04/2025 \u092e\u0947\u0902 \u092a\u094d\u0930\u0915\u093e\u0936\u093f\u0924 \u092a\u0930\u093f\u0936\u093f\u0937\u094d\u091f-VI \u092e\u0947\u0902 \u0938\u0941\u0927\u093e\u0930 \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u0936\u0941\u0926\u094d\u0927\u093f\u092a\u0924\u094d\u0930 -1 Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36347,
+      "id": 36533,
       "title": "\u0938\u0940\u0908\u090f\u0928 08/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0938\u0902\u0926\u0930\u094d\u092d \u092e\u0947\u0902 \u0938\u0942\u091a\u0928\u093e Regarding status of application under CEN 08/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/08-ISOL/082025ISOL-ApplicationStatus.pdf",
@@ -1061,10 +1053,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-08/2025 (Isolated Categories) : Application Status \u0938\u0942\u091a\u0928\u093e / Notice : \u0932\u093f\u0902\u0915 / Link : \u0906\u0935\u0947\u0926\u0928 \u0915\u0940 \u0938\u094d\u0924\u093f\u0925\u093f \u092f\u0939\u093e\u0901 \u091a\u0947\u0915 \u0915\u0930\u0947\u0902 Check your application status here",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36346,
+      "id": 36532,
       "title": "Indicative notice regarding publishing of CEN No. 01/2026 for posts of Assistant Loco Pilot",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2026/01-ALP/012026ALP-IndicativeNotice.pdf",
@@ -1074,10 +1066,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2026 (ALP) : \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u0938\u0942\u091a\u0928\u093e / Indicative notice \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u0938\u0942\u091a\u0928\u093e : \u0905\u0938\u093f\u0938\u094d\u091f\u0947\u0902\u091f \u0932\u094b\u0915\u094b \u092a\u093e\u092f\u0932\u091f \u0915\u0940 \u092d\u0930\u094d\u0924\u0940 \u0939\u0947\u0924\u0941 \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0930\u094b\u095b\u0917\u093e\u0930 \u0938\u0942\u091a\u0928\u093e \u0938\u0902. 01/2026 \u0915\u0947 \u092a\u094d\u0930\u0915\u093e\u0936\u0928 \u0939\u0947\u0924\u0941 \u0938\u093e\u0902\u0915\u0947\u0924\u093f\u0915 \u0938\u0942\u091a\u0928\u093e Notice",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36345,
+      "id": 36531,
       "title": "\u0938\u0940\u0908\u090f\u0928 01/2026 (\u090f\u090f\u0932\u092a\u0940) \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0906\u0935\u0947\u0926\u0928 \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0924\u094d\u0924\u0930 FAQs regarding application process under CEN 01/2026 (ALP)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2026/01-ALP/012026ALP-Application_FAQs.pdf",
@@ -1087,10 +1079,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN-01/2026 (ALP) : Frequently Asked Questions \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0924\u094d\u0924\u0930 / FAQs",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36344,
+      "id": 36530,
       "title": "\u0938\u0940\u0908\u090f\u0928 04/2025 \u0915\u0947 \u0905\u0902\u0924\u0930\u094d\u0917\u0924 \u0938\u0940\u092c\u0940\u090f\u091f\u0940 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u0938\u0902\u092c\u0902\u0927 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u092f\u0903 \u092a\u0942\u091b\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 FAQs regarding CBAT exam under CEN 04/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/042024-CBAT_FAQs.pdf",
@@ -1100,10 +1092,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CEN 04/2025 (Section Controller) : CBAT - Frequently Asked Questions \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0924\u094d\u0924\u0930 / FAQs",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36335,
+      "id": 36521,
       "title": "CEN 01/2026",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2026-01-alp.php",
@@ -1113,10 +1105,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 01/2026",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36334,
+      "id": 36520,
       "title": "CEN 09/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-09-level1.php",
@@ -1126,10 +1118,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 09/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36333,
+      "id": 36519,
       "title": "CEN 08/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-08-isol.php",
@@ -1139,10 +1131,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 07/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36332,
+      "id": 36518,
       "title": "CEN 07/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-07-ntpcug.php",
@@ -1152,10 +1144,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 07/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36331,
+      "id": 36517,
       "title": "CEN 06/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-06-ntpcg.php",
@@ -1165,10 +1157,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 06/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36330,
+      "id": 36516,
       "title": "CEN 05/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-05-je.php",
@@ -1178,10 +1170,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 05/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36294,
+      "id": 36480,
       "title": "CEN 08/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-08-level1.php",
@@ -1191,10 +1183,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 08/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36293,
+      "id": 36479,
       "title": "CEN 07/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-07-m&i.php",
@@ -1204,10 +1196,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 07/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36292,
+      "id": 36478,
       "title": "CEN 06/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-06-ntpcug.php",
@@ -1217,10 +1209,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 06/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36291,
+      "id": 36477,
       "title": "CEN 05/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-05-ntpcg.php",
@@ -1230,10 +1222,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 05/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36290,
+      "id": 36476,
       "title": "CEN 04/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-04-pmed.php",
@@ -1243,10 +1235,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 04/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36289,
+      "id": 36475,
       "title": "CEN 03/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-03-je.php",
@@ -1256,10 +1248,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 03/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36288,
+      "id": 36474,
       "title": "CEN 02/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-02-tech.php",
@@ -1269,10 +1261,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 02/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36287,
+      "id": 36473,
       "title": "CEN 01/2024",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-01-alp.php",
@@ -1282,10 +1274,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 01/2024",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:27"
+      "scrapedAt": "2026-06-06 13:13:44"
     },
     {
-      "id": 36329,
+      "id": 36515,
       "title": "CEN 04/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-04-sctrl.php",
@@ -1295,10 +1287,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 04/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36325,
+      "id": 36511,
       "title": "CEN RPF 02/2024 - (Constable)",
       "source": "RRB",
       "link": "https://dc4-g22.digialm.com//OnlineAssessment/index.html?33015@@M214",
@@ -1308,10 +1300,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - NTPC Graduate CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36323,
+      "id": 36509,
       "title": "CEN 08/2024 - Group-D (Level-1)",
       "source": "RRB",
       "link": "https://cdn4.digialm.com/OnlineAssessment/index.html?33015@@MOA1@@0@@0",
@@ -1321,10 +1313,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - NTPC Graduate CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36321,
+      "id": 36507,
       "title": "CEN 06/2024 - NTPC UG",
       "source": "RRB",
       "link": "https://dc4-g22.digialm.com/OnlineAssessment/index.html?2667@@M8",
@@ -1334,10 +1326,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - NTPC Graduate CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36320,
+      "id": 36506,
       "title": "CEN 05/2024 - NTPC Graduate",
       "source": "RRB",
       "link": "https://dc4-g22.digialm.com//OnlineAssessment/index.html?33015@@M217",
@@ -1347,10 +1339,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36319,
+      "id": 36505,
       "title": "CEN 04/2024 - (Paramedical)",
       "source": "RRB",
       "link": "https://dc4-g22.digialm.com//OnlineAssessment/index.html?33015@@M216",
@@ -1360,10 +1352,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 05/2024 - NTPC Graduate CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36318,
+      "id": 36504,
       "title": "CEN 03/2024 - (JE/DMS/CMA)",
       "source": "RRB",
       "link": "https://dc4-g22.digialm.com//OnlineAssessment/index.html?1907@@M9",
@@ -1373,10 +1365,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 02/2024 - (Technicians) CEN 04/2024 - (Paramedical) CEN 05/2024 - NTPC Graduate CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36317,
+      "id": 36503,
       "title": "CEN 02/2024 - (Technicians)",
       "source": "RRB",
       "link": "https://dc4-g22.digialm.com/OnlineAssessment/index.html?32341@@M2",
@@ -1386,10 +1378,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 01/2024 - (ALP) CBT-II CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - NTPC Graduate CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36316,
+      "id": 36502,
       "title": "CEN 01/2024 - (ALP) CBT-II",
       "source": "RRB",
       "link": "https://www4.digialm.com/OnlineAssessment/index.html?1181@@M17",
@@ -1399,10 +1391,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MOCK-TESTS - CEN 01/2024 - (ALP) CBT-I CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - NTPC Graduate CEN 06/2024 - NTPC UG CEN 07/2024 - Min & Iso CEN 08/2024 - Group-D (Level-1) CEN RPF 01/2024 - (SI) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36303,
+      "id": 36489,
       "title": "CEN 03/2018 - (JEs)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2018-03-je.php",
@@ -1412,10 +1404,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2018 - (ALP & Technician) CEN 02/2018 - (Group-D)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36302,
+      "id": 36488,
       "title": "CEN 02/2018 - (Group-D)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2018-02-grpd.php",
@@ -1425,10 +1417,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2018 - (ALP & Technician) CEN 03/2018 - (JEs)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36301,
+      "id": 36487,
       "title": "CEN 01/2018 - (ALP & Technician)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2018-01-alptech.php",
@@ -1438,10 +1430,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 02/2018 - (Group-D) CEN 03/2018 - (JEs)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36300,
+      "id": 36486,
       "title": "CEN RRC 01/2019 - (Group-D)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2019-01-rrc.php",
@@ -1451,10 +1443,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2019 - (NTPC) CEN 02/2019 - (Paramedical) CEN 03/2019 - (Min & Iso)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36299,
+      "id": 36485,
       "title": "CEN 03/2019 - (Min & Iso)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2019-03-m&i.php",
@@ -1464,10 +1456,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2019 - (NTPC) CEN 02/2019 - (Paramedical) CEN RRC 01/2019 - (Group-D)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36298,
+      "id": 36484,
       "title": "CEN 02/2019 - (Paramedical)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2019-02-paramed.php",
@@ -1477,10 +1469,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2019 - (NTPC) CEN 03/2019 - (Min & Iso) CEN RRC 01/2019 - (Group-D)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36297,
+      "id": 36483,
       "title": "CEN 01/2019 - (NTPC)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2019-01-ntpc.php",
@@ -1490,10 +1482,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 02/2019 - (Paramedical) CEN 03/2019 - (Min & Iso) CEN RRC 01/2019 - (Group-D)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36296,
+      "id": 36482,
       "title": "CEN RPF 02/2024 - (Constable)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-02-rpf.php",
@@ -1503,10 +1495,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2025 - (ALP) CEN 02/2025 - (Technicians) CEN 03/2025 - (Paramedical) CEN 01/2024 - (ALP) CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - (NTPC Grad) CEN 06/2024 - (NTPC UG) CEN 07/2024 - (Min & Iso) CEN 08/2024 - (Group-D) CEN RPF 01/2024 - (SI)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36295,
+      "id": 36481,
       "title": "CEN RPF 01/2024 - (SI)",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2024-01-rpf.php",
@@ -1516,10 +1508,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2025 - (ALP) CEN 02/2025 - (Technicians) CEN 03/2025 - (Paramedical) CEN 01/2024 - (ALP) CEN 02/2024 - (Technicians) CEN 03/2024 - (JE/DMS/CMA) CEN 04/2024 - (Paramedical) CEN 05/2024 - (NTPC Grad) CEN 06/2024 - (NTPC UG) CEN 07/2024 - (Min & Iso) CEN 08/2024 - (Group-D) CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36286,
+      "id": 36472,
       "title": "CEN 03/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-03-pmed.php",
@@ -1529,10 +1521,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 03/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36285,
+      "id": 36471,
       "title": "CEN 02/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-02-tech.php",
@@ -1542,10 +1534,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 02/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36284,
+      "id": 36470,
       "title": "CEN 01/2025",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/2025-01-alp.php",
@@ -1555,10 +1547,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "All notices of CEN 01/2025",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36283,
+      "id": 36469,
       "title": "CEN RPF 02/2024 - (Constable)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/33015/92912/login.html",
@@ -1568,10 +1560,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN RPF 02/2024 - (Constable)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36282,
+      "id": 36468,
       "title": "CEN RPF 01/2024 - (SI)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/1181/91610/login.html",
@@ -1581,10 +1573,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN RPF 01/2024 - (SI)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36281,
+      "id": 36467,
       "title": "CEN 08/2024 - (Level-1)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/33015/96410/login.html",
@@ -1594,10 +1586,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 08/2024 - (Level-1)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36280,
+      "id": 36466,
       "title": "CEN 07/2024 - (M&I)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/33015/95530/login.html",
@@ -1607,10 +1599,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 07/2024 - (M&I)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36279,
+      "id": 36465,
       "title": "CEN 06/2024 - (NTPC-UG)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/2667/95125/login.html",
@@ -1620,10 +1612,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 06/2024 - (NTPC-UG)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36278,
+      "id": 36464,
       "title": "CEN 05/2024 - (NTPC-G)",
       "source": "RRB",
       "link": "https://rrb.digialm.com//EForms/configuredHtml/33015/94346/login.html",
@@ -1633,10 +1625,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 05/2024 - (NTPC-G)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36277,
+      "id": 36463,
       "title": "CEN 04/2024 - (Paramedical)",
       "source": "RRB",
       "link": "https://rrb.digialm.com//EForms/configuredHtml/33015/93368/login.html",
@@ -1646,10 +1638,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 04/2024 - (Paramedical)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36276,
+      "id": 36462,
       "title": "CEN 03/2024 - (JE/DMS/CMA)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/1907/91775/login.html",
@@ -1659,10 +1651,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 03/2024 - (JE/DMS/CMA)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36275,
+      "id": 36461,
       "title": "CEN 02/2024 - (Technician-III)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/2667/92089/login.html",
@@ -1672,10 +1664,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 02/2024 - (Technician-III)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36274,
+      "id": 36460,
       "title": "CEN 02/2024 - (Technician-I)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/2667/92088/login.html",
@@ -1685,10 +1677,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 02/2024 - (Technician-I)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36273,
+      "id": 36459,
       "title": "CEN 01/2024 - (ALP)",
       "source": "RRB",
       "link": "https://rrb.digialm.com/EForms/configuredHtml/1181/91195/login.html",
@@ -1698,10 +1690,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CEN 01/2024 - (ALP)",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:26"
+      "scrapedAt": "2026-06-06 13:13:43"
     },
     {
-      "id": 36272,
+      "id": 36458,
       "title": "Recruitment Notices",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/employment-notices.php",
@@ -1711,10 +1703,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Recruitment Notices",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:25"
+      "scrapedAt": "2026-06-06 13:13:42"
     },
     {
-      "id": 36271,
+      "id": 36457,
       "title": "\u0930\u0947\u0932\u0935\u0947 \u092d\u0930\u094d\u0924\u0940 \u092c\u094b\u0930\u094d\u0921, \u091a\u0902\u0921\u0940\u0917\u095d Railway Recruitment Board, Chandigarh",
       "source": "RRB",
       "link": "https://www.rrbcdg.gov.in/index.php",
@@ -1724,179 +1716,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "\u0930\u0947\u0932\u0935\u0947 \u092d\u0930\u094d\u0924\u0940 \u092c\u094b\u0930\u094d\u0921, \u091a\u0902\u0921\u0940\u0917\u095dRailway Recruitment Board, Chandigarh",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:25"
+      "scrapedAt": "2026-06-06 13:13:42"
     },
     {
-      "id": 36270,
-      "title": "genadmin[at]nta[dot]ac[dot]in",
-      "source": "NTA",
-      "link": "Mailto:genadmin@nta.ac.in",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "First Floor, NSIC-MDBP Building,Okhla Industrial Estate, New Delhi, Delhi 110020 011-69227700",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:18"
-    },
-    {
-      "id": 36269,
-      "title": "NTA Registration and MoA",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube Twitter Play Store App Store",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:18"
-    },
-    {
-      "id": 36258,
-      "title": "MOOCs Swayam Examination",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Swayamexam",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Swayam JEE (Main) Engineering Joint Entrance Examination - (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:18"
-    },
-    {
-      "id": 36257,
-      "title": "Engineering Joint Entrance Examination - (Main)",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Engineeringexam",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Swayam MOOCs Swayam Examination JEE (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:18"
-    },
-    {
-      "id": 36256,
-      "title": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
-      "source": "NTA",
-      "link": "http://cbtc.nta.ac.in/observer",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:16"
-    },
-    {
-      "id": 36255,
-      "title": "CONTACT US",
-      "source": "NTA",
-      "link": "https://nta.ac.in/ContactUs",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "CONTACT US",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:14"
-    },
-    {
-      "id": 36254,
-      "title": "Hotel Management Joint Entrance Examination",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/nchm-jee/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:14"
-    },
-    {
-      "id": 36253,
-      "title": "ICAR'S All India Entrance Examination",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/icar/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test Hotel Management Joint Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:14"
-    },
-    {
-      "id": 36252,
-      "title": "Joint Entrance Examination",
-      "source": "NTA",
-      "link": "https://jeemain.nta.nic.in",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Hotel Management Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:14"
-    },
-    {
-      "id": 36250,
-      "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:09"
-    },
-    {
-      "id": 36249,
-      "title": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.amarujala.com/education/cbse-class-12-result-2026-kv-secures-top-spot-know-how-different-schools-performed-2026-05-13",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:09"
-    },
-    {
-      "id": 36248,
-      "title": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940",
-      "source": "KVS",
-      "link": "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:09"
-    },
-    {
-      "id": 36247,
-      "title": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
-      "source": "KVS",
-      "link": "https://kvsangathan.nic.in/",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:08"
-    },
-    {
-      "id": 36242,
+      "id": 36452,
       "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/services",
@@ -1906,10 +1729,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
+      "scrapedAt": "2026-06-06 13:11:58"
     },
     {
-      "id": 36241,
+      "id": 36451,
       "title": "CRP Specialist Officer",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers",
@@ -1919,10 +1742,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP RRB",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
+      "scrapedAt": "2026-06-06 13:11:58"
     },
     {
-      "id": 36240,
+      "id": 36450,
       "title": "CRP - PO/MTs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees",
@@ -1932,10 +1755,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "HOME RECRUITMENT EXAMS CRP - RRBs CRP - CLERKS CRP - SPECIALIST OFFICERS",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
+      "scrapedAt": "2026-06-06 13:11:58"
     },
     {
-      "id": 36239,
+      "id": 36449,
       "title": "CRP Clerical cadre",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre",
@@ -1945,10 +1768,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP PO/MT CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
+      "scrapedAt": "2026-06-06 13:11:58"
     },
     {
-      "id": 36238,
+      "id": 36448,
       "title": "CRP RRB",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank",
@@ -1958,88 +1781,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP Specialist Officer",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
+      "scrapedAt": "2026-06-06 13:11:58"
     },
     {
-      "id": 36231,
-      "title": "NALCO Recruitment of Non-Executive Personnel Registration From 21-May-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/nalconeapr26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "NALCO Recruitment of Non-Executive Personnel Registration From 21-May-2026",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
-    },
-    {
-      "id": 36230,
-      "title": "IEB Direct Recruitment Drive for Deputy Managers Registration From 26-May-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/iebddmapr26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IEB Direct Recruitment Drive for Deputy Managers Registration From 26-May-2026",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
-    },
-    {
-      "id": 36229,
-      "title": "BPCL Lateral Mid-Senior Level Recruitment Drive Registration From 31-May-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/bpcllmsmay26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "BPCL Lateral Mid-Senior Level Recruitment Drive Registration From 31-May-2026",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
-    },
-    {
-      "id": 36228,
-      "title": "IPPBL Recruitment of Chief Operating Officer (COO) Registration From 01-May-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/ippblapr26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IPPBL Recruitment of Chief Operating Officer (COO) Registration From 01-May-2026",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
-    },
-    {
-      "id": 36227,
-      "title": "IEB Direct Recruitment Drive for Management Trainees Registration From 15-May-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/iebmtapr26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IEB Direct Recruitment Drive for Management Trainees Registration From 15-May-2026",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
-    },
-    {
-      "id": 36226,
-      "title": "OSWC Recruitment of Assistant Superintendent and Warehouse Assistant Registration From 15-May-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/oswcoct25/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "OSWC Recruitment of Assistant Superintendent and Warehouse Assistant Registration From 15-May-2026",
-      "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
-    },
-    {
-      "id": 36222,
+      "id": 36432,
       "title": "CRP PO/MT",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees/",
@@ -2049,10 +1794,88 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:29"
+      "scrapedAt": "2026-06-06 13:11:58"
     },
     {
-      "id": 36224,
+      "id": 36441,
+      "title": "NALCO Recruitment of Non-Executive Personnel Registration From 21-May-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/nalconeapr26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "NALCO Recruitment of Non-Executive Personnel Registration From 21-May-2026",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:11:57"
+    },
+    {
+      "id": 36440,
+      "title": "IEB Direct Recruitment Drive for Deputy Managers Registration From 26-May-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/iebddmapr26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "IEB Direct Recruitment Drive for Deputy Managers Registration From 26-May-2026",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:11:57"
+    },
+    {
+      "id": 36439,
+      "title": "BPCL Lateral Mid-Senior Level Recruitment Drive Registration From 31-May-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/bpcllmsmay26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "BPCL Lateral Mid-Senior Level Recruitment Drive Registration From 31-May-2026",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:11:57"
+    },
+    {
+      "id": 36438,
+      "title": "IPPBL Recruitment of Chief Operating Officer (COO) Registration From 01-May-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/ippblapr26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "IPPBL Recruitment of Chief Operating Officer (COO) Registration From 01-May-2026",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:11:57"
+    },
+    {
+      "id": 36437,
+      "title": "IEB Direct Recruitment Drive for Management Trainees Registration From 15-May-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/iebmtapr26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "IEB Direct Recruitment Drive for Management Trainees Registration From 15-May-2026",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:11:57"
+    },
+    {
+      "id": 36436,
+      "title": "OSWC Recruitment of Assistant Superintendent and Warehouse Assistant Registration From 15-May-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/oswcoct25/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "OSWC Recruitment of Assistant Superintendent and Warehouse Assistant Registration From 15-May-2026",
+      "publishedLabel": "Updated 2026-06-06",
+      "scrapedAt": "2026-06-06 13:11:57"
+    },
+    {
+      "id": 36434,
       "title": "Provisional Allotment under Reserve List for CRP-RRBs\u2013XIV-Officer Scale \u2013I, II & III",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/rural-bank-xiv/",
@@ -2062,10 +1885,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP-RRBs\u2013XIV Posted on 01 Jun, 2026",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:28"
+      "scrapedAt": "2026-06-06 13:11:57"
     },
     {
-      "id": 36223,
+      "id": 36433,
       "title": "CRP Specialist Officers",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers/",
@@ -2075,10 +1898,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP CSA(Customer Service Associates) CRP PO/MTs Mock Test",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:28"
+      "scrapedAt": "2026-06-06 13:11:57"
     },
     {
-      "id": 36221,
+      "id": 36431,
       "title": "CRP CSA(Customer Service Associates)",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre/",
@@ -2088,10 +1911,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:28"
+      "scrapedAt": "2026-06-06 13:11:57"
     },
     {
-      "id": 36220,
+      "id": 36430,
       "title": "CRP RRBs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank/",
@@ -2101,12 +1924,12 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP CSA(Customer Service Associates) CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:25:28"
+      "scrapedAt": "2026-06-06 13:11:57"
     }
   ],
   "news": [
     {
-      "id": 36429,
+      "id": 36615,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -2116,10 +1939,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36428,
+      "id": 36614,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -2129,10 +1952,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36427,
+      "id": 36613,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -2142,10 +1965,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36426,
+      "id": 36612,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -2155,10 +1978,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36425,
+      "id": 36611,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -2168,10 +1991,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36424,
+      "id": 36610,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -2181,10 +2004,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36423,
+      "id": 36609,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -2194,10 +2017,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36422,
+      "id": 36608,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -2207,10 +2030,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36421,
+      "id": 36607,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -2220,10 +2043,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     },
     {
-      "id": 36420,
+      "id": 36606,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -2233,7 +2056,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-06-06",
-      "scrapedAt": "2026-06-06 08:26:32"
+      "scrapedAt": "2026-06-06 13:13:49"
     }
   ]
 };
