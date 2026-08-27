@@ -1,178 +1,30 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-08-27 02:28:45",
-  "totalJobs": 30,
+  "generatedAt": "2026-08-27 17:11:11",
+  "totalJobs": 22,
   "totalNews": 10,
   "sourceCounts": [
     {
       "source": "IBPS",
-      "count": 21
-    },
-    {
-      "source": "NTA",
-      "count": 9
+      "count": 22
     }
   ],
   "featuredJob": {
-    "id": 62086,
-    "title": "genadmin[at]nta[dot]ac[dot]in",
-    "source": "NTA",
-    "link": "Mailto:genadmin@nta.ac.in",
+    "id": 62132,
+    "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
+    "source": "IBPS",
+    "link": "https://www.ibps.in/index.php/services",
     "type": "Official Update",
-    "tag": "nta",
-    "scope": "NTA",
+    "tag": "ibps",
+    "scope": "IBPS",
     "pdf": false,
-    "description": "First Floor, NSIC-MDBP Building,Okhla Industrial Estate, New Delhi, Delhi 110020 011-69227700",
+    "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
     "publishedLabel": "Updated 2026-08-27",
-    "scrapedAt": "2026-08-27 02:28:42"
+    "scrapedAt": "2026-08-27 17:10:05"
   },
-  "resourceJobs": [
-    {
-      "id": 62085,
-      "title": "NTA Registration and MoA",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube Twitter Play Store App Store",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:42"
-    },
-    {
-      "id": 62034,
-      "title": "Corrigendum Regarding CRP-CSA-XVI",
-      "source": "IBPS",
-      "link": "https://www.ibps.in/wp-content/uploads/Corrigendum-for-extension_CRP_CSA_XVI.pdf",
-      "type": "PDF Notice",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": true,
-      "description": "CRP-CSA-XVI Posted on 21 Aug, 2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:30"
-    }
-  ],
+  "resourceJobs": [],
   "jobs": [
     {
-      "id": 62086,
-      "title": "genadmin[at]nta[dot]ac[dot]in",
-      "source": "NTA",
-      "link": "Mailto:genadmin@nta.ac.in",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "First Floor, NSIC-MDBP Building,Okhla Industrial Estate, New Delhi, Delhi 110020 011-69227700",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:42"
-    },
-    {
-      "id": 62085,
-      "title": "NTA Registration and MoA",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube Twitter Play Store App Store",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:42"
-    },
-    {
-      "id": 62074,
-      "title": "MOOCs Swayam Examination",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Swayamexam",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Swayam JEE (Main) Engineering Joint Entrance Examination - (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:42"
-    },
-    {
-      "id": 62073,
-      "title": "Engineering Joint Entrance Examination - (Main)",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Engineeringexam",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Swayam MOOCs Swayam Examination JEE (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:42"
-    },
-    {
-      "id": 62072,
-      "title": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
-      "source": "NTA",
-      "link": "http://cbtc.nta.ac.in/observer",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:40"
-    },
-    {
-      "id": 62071,
-      "title": "CONTACT US",
-      "source": "NTA",
-      "link": "https://nta.ac.in/ContactUs",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "CONTACT US",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:38"
-    },
-    {
-      "id": 62070,
-      "title": "Hotel Management Joint Entrance Examination",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/nchm-jee/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:38"
-    },
-    {
-      "id": 62069,
-      "title": "ICAR'S All India Entrance Examination",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/icar/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test Hotel Management Joint Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:38"
-    },
-    {
-      "id": 62068,
-      "title": "Joint Entrance Examination",
-      "source": "NTA",
-      "link": "https://jeemain.nta.nic.in",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Hotel Management Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:38"
-    },
-    {
-      "id": 62063,
+      "id": 62132,
       "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/services",
@@ -182,10 +34,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
+      "scrapedAt": "2026-08-27 17:10:05"
     },
     {
-      "id": 62062,
+      "id": 62131,
       "title": "CRP Specialist Officer",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers",
@@ -195,10 +47,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP RRB",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
+      "scrapedAt": "2026-08-27 17:10:05"
     },
     {
-      "id": 62061,
+      "id": 62130,
       "title": "CRP - PO/MTs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees",
@@ -208,10 +60,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "HOME RECRUITMENT EXAMS CRP - RRBs CRP - CLERKS CRP - SPECIALIST OFFICERS",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
+      "scrapedAt": "2026-08-27 17:10:05"
     },
     {
-      "id": 62060,
+      "id": 62129,
       "title": "CRP Clerical cadre",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre",
@@ -221,10 +73,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP PO/MT CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
+      "scrapedAt": "2026-08-27 17:10:05"
     },
     {
-      "id": 62059,
+      "id": 62128,
       "title": "CRP RRB",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank",
@@ -234,153 +86,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP Specialist Officer",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
+      "scrapedAt": "2026-08-27 17:10:05"
     },
     {
-      "id": 62047,
-      "title": "IOCL Recruitment of Executives Registration From 14-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/iocljun26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IOCL Recruitment of Executives Registration From 14-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62046,
-      "title": "BOB Recruitment of Local Bank Officer Registration From 18-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/bobjul26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "BOB Recruitment of Local Bank Officer Registration From 18-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62045,
-      "title": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/iobsgaug26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62044,
-      "title": "NMDFC Recruitment of Company Secretary cum Chief Manager Registration From 25-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/nmdfcjul26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "NMDFC Recruitment of Company Secretary cum Chief Manager Registration From 25-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62043,
-      "title": "SBI Recruitment of Junior Associates (Customer Support & Sales) Registration From 07-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/sbijasrdjl26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "SBI Recruitment of Junior Associates (Customer Support & Sales) Registration From 07-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62042,
-      "title": "RCF Recruitment of Management Trainees Registration From 08-Aug-2025",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/rcfmtfeb26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "RCF Recruitment of Management Trainees Registration From 08-Aug-2025",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62041,
-      "title": "AIIMS Recruitment to Various Group-A Non-Faculty Posts Registration From 08-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/aiimsjul26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "AIIMS Recruitment to Various Group-A Non-Faculty Posts Registration From 08-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62040,
-      "title": "AAI Recruitment of Managers and Junior Executives Registration From 08-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/aaioct25/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "AAI Recruitment of Managers and Junior Executives Registration From 08-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62039,
-      "title": "GPCB Recruitment of Clerk Registration From 10-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/gpcbmay26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "GPCB Recruitment of Clerk Registration From 10-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62038,
-      "title": "SBI Recruitment of Junior Associates Registration From 11-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/sbijajul26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "SBI Recruitment of Junior Associates Registration From 11-Aug-2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62036,
-      "title": "Online Preliminary Exam Call Letter for CRP-SPL-XVI",
-      "source": "IBPS",
-      "link": "https://www.ibps.in/index.php/specialist-officers-xvi/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "CRP-SPL-XVI Posted on 20 Aug, 2026",
-      "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
-    },
-    {
-      "id": 62032,
+      "id": 62099,
       "title": "CRP PO/MT",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees/",
@@ -390,23 +99,179 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:31"
+      "scrapedAt": "2026-08-27 17:10:05"
     },
     {
-      "id": 62034,
-      "title": "Corrigendum Regarding CRP-CSA-XVI",
+      "id": 62116,
+      "title": "IOCL Recruitment of Executives Registration From 14-Aug-2026",
       "source": "IBPS",
-      "link": "https://www.ibps.in/wp-content/uploads/Corrigendum-for-extension_CRP_CSA_XVI.pdf",
-      "type": "PDF Notice",
+      "link": "https://ibpsreg.ibps.in/iocljun26/",
+      "type": "Official Update",
       "tag": "ibps",
       "scope": "IBPS",
-      "pdf": true,
-      "description": "CRP-CSA-XVI Posted on 21 Aug, 2026",
+      "pdf": false,
+      "description": "IOCL Recruitment of Executives Registration From 14-Aug-2026",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:30"
+      "scrapedAt": "2026-08-27 17:10:04"
     },
     {
-      "id": 62033,
+      "id": 62115,
+      "title": "BOB Recruitment of Local Bank Officer Registration From 18-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/bobjul26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "BOB Recruitment of Local Bank Officer Registration From 18-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:04"
+    },
+    {
+      "id": 62114,
+      "title": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/iobsgaug26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:04"
+    },
+    {
+      "id": 62113,
+      "title": "NMDFC Recruitment of Company Secretary cum Chief Manager Registration From 25-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/nmdfcjul26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "NMDFC Recruitment of Company Secretary cum Chief Manager Registration From 25-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:04"
+    },
+    {
+      "id": 62112,
+      "title": "SBI Recruitment of Junior Associates (Customer Support & Sales) Registration From 07-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/sbijasrdjl26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "SBI Recruitment of Junior Associates (Customer Support & Sales) Registration From 07-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:04"
+    },
+    {
+      "id": 62107,
+      "title": "SBI Recruitment of Junior Associates Registration From 11-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/sbijajul26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "SBI Recruitment of Junior Associates Registration From 11-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:04"
+    },
+    {
+      "id": 62111,
+      "title": "RCF Recruitment of Management Trainees Registration From 08-Aug-2025",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/rcfmtfeb26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "RCF Recruitment of Management Trainees Registration From 08-Aug-2025",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:03"
+    },
+    {
+      "id": 62110,
+      "title": "AIIMS Recruitment to Various Group-A Non-Faculty Posts Registration From 08-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/aiimsjul26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "AIIMS Recruitment to Various Group-A Non-Faculty Posts Registration From 08-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:03"
+    },
+    {
+      "id": 62109,
+      "title": "AAI Recruitment of Managers and Junior Executives Registration From 08-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/aaioct25/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "AAI Recruitment of Managers and Junior Executives Registration From 08-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:03"
+    },
+    {
+      "id": 62108,
+      "title": "GPCB Recruitment of Clerk Registration From 10-Aug-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/gpcbmay26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "GPCB Recruitment of Clerk Registration From 10-Aug-2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:03"
+    },
+    {
+      "id": 62105,
+      "title": "Apply Online for Common Recruitment Process under CRP-CSA-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/clerical-cadre-xvi/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP-CSA-XVI Posted on 01 Aug, 2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:02"
+    },
+    {
+      "id": 62103,
+      "title": "Corrigendum dated 27.08.2026 in connection with CRP-SPL-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/specialist-officers-xvi/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP-SPL-XVI Posted on 27 Aug, 2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:02"
+    },
+    {
+      "id": 62101,
+      "title": "Corrigendum dated 27.08.2026 in connection with CRP-PO/MTs-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/management-trainees-xvi/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP-PO/MTs-XVI Posted on 27 Aug, 2026",
+      "publishedLabel": "Updated 2026-08-27",
+      "scrapedAt": "2026-08-27 17:10:02"
+    },
+    {
+      "id": 62100,
       "title": "CRP Specialist Officers",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers/",
@@ -416,10 +281,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP CSA(Customer Service Associates) CRP PO/MTs Mock Test",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:30"
+      "scrapedAt": "2026-08-27 17:10:01"
     },
     {
-      "id": 62031,
+      "id": 62098,
       "title": "CRP CSA(Customer Service Associates)",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre/",
@@ -429,10 +294,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:30"
+      "scrapedAt": "2026-08-27 17:10:01"
     },
     {
-      "id": 62030,
+      "id": 62097,
       "title": "CRP RRBs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank/",
@@ -442,12 +307,12 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP CSA(Customer Service Associates) CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:27:30"
+      "scrapedAt": "2026-08-27 17:10:01"
     }
   ],
   "news": [
     {
-      "id": 62096,
+      "id": 62146,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -457,10 +322,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62095,
+      "id": 62145,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -470,10 +335,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62094,
+      "id": 62144,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -483,10 +348,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62093,
+      "id": 62143,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -496,10 +361,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62092,
+      "id": 62142,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -509,10 +374,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62091,
+      "id": 62141,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -522,10 +387,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62090,
+      "id": 62140,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -535,10 +400,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62089,
+      "id": 62139,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -548,10 +413,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62088,
+      "id": 62138,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -561,10 +426,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     },
     {
-      "id": 62087,
+      "id": 62137,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -574,7 +439,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-08-27",
-      "scrapedAt": "2026-08-27 02:28:45"
+      "scrapedAt": "2026-08-27 17:11:11"
     }
   ]
 };
