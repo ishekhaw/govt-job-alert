@@ -1,11 +1,11 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-09-07 16:56:27",
-  "totalJobs": 23,
+  "generatedAt": "2026-09-07 23:54:10",
+  "totalJobs": 19,
   "totalNews": 10,
   "sourceCounts": [
     {
       "source": "IBPS",
-      "count": 17
+      "count": 13
     },
     {
       "source": "KVS",
@@ -13,7 +13,7 @@ window.__JOB_DATA__ = {
     }
   ],
   "featuredJob": {
-    "id": 64356,
+    "id": 64403,
     "title": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025: TGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u090f\u0935\u0902 \u0935\u093f\u0936\u0947\u0937 \u0936\u093f\u0915\u094d\u0937\u0915) \u090f\u0935\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0938\u091a\u093f\u0935\u093e\u0932\u092f \u0938\u0939\u093e\u092f\u0915 \u0915\u0947 \u091f\u093f\u092f\u0930-II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f \u0928\u0908",
     "source": "KVS",
     "link": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026090192.pdf",
@@ -23,11 +23,11 @@ window.__JOB_DATA__ = {
     "pdf": true,
     "description": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025: TGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u090f\u0935\u0902 \u0935\u093f\u0936\u0947\u0937 \u0936\u093f\u0915\u094d\u0937\u0915) \u090f\u0935\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0938\u091a\u093f\u0935\u093e\u0932\u092f \u0938\u0939\u093e\u092f\u0915 \u0915\u0947 \u091f\u093f\u092f\u0930-II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f \u0928\u0908",
     "publishedLabel": "Updated 2026-09-07",
-    "scrapedAt": "2026-09-07 16:55:54"
+    "scrapedAt": "2026-09-07 23:53:36"
   },
   "resourceJobs": [
     {
-      "id": 64356,
+      "id": 64403,
       "title": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025: TGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u090f\u0935\u0902 \u0935\u093f\u0936\u0947\u0937 \u0936\u093f\u0915\u094d\u0937\u0915) \u090f\u0935\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0938\u091a\u093f\u0935\u093e\u0932\u092f \u0938\u0939\u093e\u092f\u0915 \u0915\u0947 \u091f\u093f\u092f\u0930-II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f \u0928\u0908",
       "source": "KVS",
       "link": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026090192.pdf",
@@ -37,10 +37,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025: TGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u090f\u0935\u0902 \u0935\u093f\u0936\u0947\u0937 \u0936\u093f\u0915\u094d\u0937\u0915) \u090f\u0935\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0938\u091a\u093f\u0935\u093e\u0932\u092f \u0938\u0939\u093e\u092f\u0915 \u0915\u0947 \u091f\u093f\u092f\u0930-II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f \u0928\u0908",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
+      "scrapedAt": "2026-09-07 23:53:36"
     },
     {
-      "id": 64355,
+      "id": 64402,
       "title": "\u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f: \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025 \u0915\u0947 \u0924\u0939\u0924 \u092a\u094d\u0930\u093f\u0902\u0938\u093f\u092a\u0932, PGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940), TGT (PhE), PRT (\u0938\u094d\u092a\u0947\u0936\u0932 \u090f\u091c\u0941\u0915\u0947\u091f\u0930) \u0914\u0930 PRT (\u0938\u0902\u0917\u0940\u0924) \u0915\u0947 \u0932\u093f\u090f \u091f\u093f\u092f\u0930 II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e\u0964 \u0928\u0908",
       "source": "KVS",
       "link": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026090528-2.pdf",
@@ -50,12 +50,12 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "\u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f: \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025 \u0915\u0947 \u0924\u0939\u0924 \u092a\u094d\u0930\u093f\u0902\u0938\u093f\u092a\u0932, PGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940), TGT (PhE), PRT (\u0938\u094d\u092a\u0947\u0936\u0932 \u090f\u091c\u0941\u0915\u0947\u091f\u0930) \u0914\u0930 PRT (\u0938\u0902\u0917\u0940\u0924) \u0915\u0947 \u0932\u093f\u090f \u091f\u093f\u092f\u0930 II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e\u0964 \u0928\u0908",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
+      "scrapedAt": "2026-09-07 23:53:36"
     }
   ],
   "jobs": [
     {
-      "id": 64356,
+      "id": 64403,
       "title": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025: TGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u090f\u0935\u0902 \u0935\u093f\u0936\u0947\u0937 \u0936\u093f\u0915\u094d\u0937\u0915) \u090f\u0935\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0938\u091a\u093f\u0935\u093e\u0932\u092f \u0938\u0939\u093e\u092f\u0915 \u0915\u0947 \u091f\u093f\u092f\u0930-II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f \u0928\u0908",
       "source": "KVS",
       "link": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026090192.pdf",
@@ -65,10 +65,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025: TGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u090f\u0935\u0902 \u0935\u093f\u0936\u0947\u0937 \u0936\u093f\u0915\u094d\u0937\u0915) \u090f\u0935\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0938\u091a\u093f\u0935\u093e\u0932\u092f \u0938\u0939\u093e\u092f\u0915 \u0915\u0947 \u091f\u093f\u092f\u0930-II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0938\u0902\u092c\u0902\u0927\u0940 \u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f \u0928\u0908",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
+      "scrapedAt": "2026-09-07 23:53:36"
     },
     {
-      "id": 64355,
+      "id": 64402,
       "title": "\u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f: \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025 \u0915\u0947 \u0924\u0939\u0924 \u092a\u094d\u0930\u093f\u0902\u0938\u093f\u092a\u0932, PGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940), TGT (PhE), PRT (\u0938\u094d\u092a\u0947\u0936\u0932 \u090f\u091c\u0941\u0915\u0947\u091f\u0930) \u0914\u0930 PRT (\u0938\u0902\u0917\u0940\u0924) \u0915\u0947 \u0932\u093f\u090f \u091f\u093f\u092f\u0930 II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e\u0964 \u0928\u0908",
       "source": "KVS",
       "link": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026090528-2.pdf",
@@ -78,23 +78,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "\u092a\u094d\u0930\u0947\u0938 \u0935\u093f\u091c\u094d\u091e\u092a\u094d\u0924\u093f: \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0902\u0916\u094d\u092f\u093e 01/2025 \u0915\u0947 \u0924\u0939\u0924 \u092a\u094d\u0930\u093f\u0902\u0938\u093f\u092a\u0932, PGT (\u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940), TGT (PhE), PRT (\u0938\u094d\u092a\u0947\u0936\u0932 \u090f\u091c\u0941\u0915\u0947\u091f\u0930) \u0914\u0930 PRT (\u0938\u0902\u0917\u0940\u0924) \u0915\u0947 \u0932\u093f\u090f \u091f\u093f\u092f\u0930 II \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e\u0964 \u0928\u0908",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
+      "scrapedAt": "2026-09-07 23:53:36"
     },
     {
-      "id": 64354,
-      "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
-    },
-    {
-      "id": 64353,
+      "id": 64400,
       "title": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930",
       "source": "KVS",
       "link": "https://www.amarujala.com/education/cbse-class-12-result-2026-kv-secures-top-spot-know-how-different-schools-performed-2026-05-13",
@@ -104,10 +91,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
+      "scrapedAt": "2026-09-07 23:53:36"
     },
     {
-      "id": 64352,
+      "id": 64399,
       "title": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940",
       "source": "KVS",
       "link": "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
@@ -117,10 +104,23 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:54"
+      "scrapedAt": "2026-09-07 23:53:36"
     },
     {
-      "id": 64351,
+      "id": 64398,
+      "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
+      "source": "KVS",
+      "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
+      "type": "Official Update",
+      "tag": "kvs",
+      "scope": "KVS",
+      "pdf": false,
+      "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
+      "publishedLabel": "Updated 2026-09-07",
+      "scrapedAt": "2026-09-07 23:53:36"
+    },
+    {
+      "id": 64397,
       "title": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
       "source": "KVS",
       "link": "https://kvsangathan.nic.in/",
@@ -130,10 +130,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:53"
+      "scrapedAt": "2026-09-07 23:53:35"
     },
     {
-      "id": 64346,
+      "id": 64392,
       "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/services",
@@ -143,10 +143,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64345,
+      "id": 64391,
       "title": "CRP Specialist Officer",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers",
@@ -156,10 +156,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP RRB",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64344,
+      "id": 64390,
       "title": "CRP - PO/MTs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees",
@@ -169,10 +169,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "HOME RECRUITMENT EXAMS CRP - RRBs CRP - CLERKS CRP - SPECIALIST OFFICERS",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64343,
+      "id": 64389,
       "title": "CRP Clerical cadre",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre",
@@ -182,10 +182,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP PO/MT CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64342,
+      "id": 64388,
       "title": "CRP RRB",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank",
@@ -195,23 +195,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP Specialist Officer",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64333,
-      "title": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/iobsgaug26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
-      "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
-    },
-    {
-      "id": 64332,
+      "id": 64377,
       "title": "NMDFC Recruitment of Company Secretary cum Chief Manager Registration From 25-Aug-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/nmdfcjul26/",
@@ -221,23 +208,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "NMDFC Recruitment of Company Secretary cum Chief Manager Registration From 25-Aug-2026",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64331,
-      "title": "IOB Recruitment of Generalist / Specialist Officers Registration From 29-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/iobgoaug26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "IOB Recruitment of Generalist / Specialist Officers Registration From 29-Aug-2026",
-      "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
-    },
-    {
-      "id": 64330,
+      "id": 64376,
       "title": "RCF Recruitment of Management Trainees Registration From 08-Aug-2025",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/rcfmtfeb26/",
@@ -247,62 +221,23 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "RCF Recruitment of Management Trainees Registration From 08-Aug-2025",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64329,
-      "title": "AIIMS Recruitment to Various Group-A Non-Faculty Posts Registration From 08-Aug-2026",
+      "id": 64375,
+      "title": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
       "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/aiimsjul26/",
+      "link": "https://ibpsreg.ibps.in/iobsgaug26/",
       "type": "Official Update",
       "tag": "ibps",
       "scope": "IBPS",
       "pdf": false,
-      "description": "AIIMS Recruitment to Various Group-A Non-Faculty Posts Registration From 08-Aug-2026",
+      "description": "IOB Recruitment of Security Guards Registration From 25-Aug-2026",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64328,
-      "title": "AAI Recruitment of Managers and Junior Executives Registration From 08-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/aaioct25/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "AAI Recruitment of Managers and Junior Executives Registration From 08-Aug-2026",
-      "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
-    },
-    {
-      "id": 64327,
-      "title": "BOB Recruitment of Local Bank Officer Registration From 18-Aug-2026",
-      "source": "IBPS",
-      "link": "https://ibpsreg.ibps.in/bobjul26/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "BOB Recruitment of Local Bank Officer Registration From 18-Aug-2026",
-      "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
-    },
-    {
-      "id": 64321,
-      "title": "CRP PO/MT",
-      "source": "IBPS",
-      "link": "https://www.ibps.in/index.php/management-trainees/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
-      "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:18"
-    },
-    {
-      "id": 64323,
+      "id": 64371,
       "title": "Apply Online for Common Recruitment Process under CRP-RRBs-XV",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/rural-bank-xv/",
@@ -312,10 +247,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP-RRBs-XV Posted on 01 Sep, 2026",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:17"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64322,
+      "id": 64370,
       "title": "CRP Specialist Officers",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers/",
@@ -325,10 +260,23 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP CSA(Customer Service Associates) CRP PO/MTs Mock Test",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:17"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64320,
+      "id": 64369,
+      "title": "CRP PO/MT",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/management-trainees/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
+      "publishedLabel": "Updated 2026-09-07",
+      "scrapedAt": "2026-09-07 23:52:59"
+    },
+    {
+      "id": 64368,
       "title": "CRP CSA(Customer Service Associates)",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre/",
@@ -338,10 +286,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:17"
+      "scrapedAt": "2026-09-07 23:52:59"
     },
     {
-      "id": 64319,
+      "id": 64367,
       "title": "CRP RRBs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank/",
@@ -351,12 +299,12 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP CSA(Customer Service Associates) CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:55:16"
+      "scrapedAt": "2026-09-07 23:52:59"
     }
   ],
   "news": [
     {
-      "id": 64366,
+      "id": 64413,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -366,10 +314,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64365,
+      "id": 64412,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -379,10 +327,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64364,
+      "id": 64411,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -392,10 +340,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64363,
+      "id": 64410,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -405,10 +353,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64362,
+      "id": 64409,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -418,10 +366,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64361,
+      "id": 64408,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -431,10 +379,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64360,
+      "id": 64407,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -444,10 +392,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64359,
+      "id": 64406,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -457,10 +405,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64358,
+      "id": 64405,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -470,10 +418,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     },
     {
-      "id": 64357,
+      "id": 64404,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -483,7 +431,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-09-07",
-      "scrapedAt": "2026-09-07 16:56:27"
+      "scrapedAt": "2026-09-07 23:54:10"
     }
   ]
 };
