@@ -1,14 +1,293 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-09-22 16:02:15",
-  "totalJobs": 0,
+  "generatedAt": "2026-09-22 19:38:11",
+  "totalJobs": 18,
   "totalNews": 10,
-  "sourceCounts": [],
-  "featuredJob": null,
-  "resourceJobs": [],
-  "jobs": [],
+  "sourceCounts": [
+    {
+      "source": "NTA",
+      "count": 18
+    }
+  ],
+  "featuredJob": {
+    "id": 67565,
+    "title": "genadmin[at]nta[dot]ac[dot]in",
+    "source": "NTA",
+    "link": "Mailto:genadmin@nta.ac.in",
+    "type": "Official Update",
+    "tag": "nta",
+    "scope": "NTA",
+    "pdf": false,
+    "description": "National Testing Agency (NTA),5th Floor, Government of India Press Building Minto Road, New Delhi - 110002 011-69227700",
+    "publishedLabel": "Updated 2026-09-22",
+    "scrapedAt": "2026-09-22 19:38:10"
+  },
+  "resourceJobs": [
+    {
+      "id": 67564,
+      "title": "NTA Registration and MoA",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube X Play Store App Store",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:10"
+    },
+    {
+      "id": 67550,
+      "title": "EXAM CALENDAR",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "EXAM CALENDAR",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 67565,
+      "title": "genadmin[at]nta[dot]ac[dot]in",
+      "source": "NTA",
+      "link": "Mailto:genadmin@nta.ac.in",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "National Testing Agency (NTA),5th Floor, Government of India Press Building Minto Road, New Delhi - 110002 011-69227700",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:10"
+    },
+    {
+      "id": 67564,
+      "title": "NTA Registration and MoA",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube X Play Store App Store",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:10"
+    },
+    {
+      "id": 67553,
+      "title": "MOOCs Swayam Examination",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Swayamexam",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Swayam JEE (Main) Engineering Joint Entrance Examination - (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:10"
+    },
+    {
+      "id": 67552,
+      "title": "Engineering Joint Entrance Examination - (Main)",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Engineeringexam",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Swayam MOOCs Swayam Examination JEE (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:10"
+    },
+    {
+      "id": 67551,
+      "title": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
+      "source": "NTA",
+      "link": "http://cbtc.nta.ac.in/observer",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:08"
+    },
+    {
+      "id": 67550,
+      "title": "EXAM CALENDAR",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "EXAM CALENDAR",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67549,
+      "title": "CONTACT US",
+      "source": "NTA",
+      "link": "https://nta.ac.in/ContactUs",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "CONTACT US",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67548,
+      "title": "NATIONAL INSTITUTE OF FASHION TECHNOLOGY ENTRANCE EXAMINATION (NIFTEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/niftee",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "NATIONAL INSTITUTE OF FASHION TECHNOLOGY ENTRANCE EXAMINATION (NIFTEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67547,
+      "title": "COMMON UNIVERSITY ENTRANCE TEST-UG (CUET-UG)",
+      "source": "NTA",
+      "link": "https://cuet.nta.nic.in/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "COMMON UNIVERSITY ENTRANCE TEST-UG (CUET-UG)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67546,
+      "title": "National Eligibility Cum Entrance Test (NEET)",
+      "source": "NTA",
+      "link": "https://neet.nta.nic.in/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "National Eligibility Cum Entrance Test (NEET)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67545,
+      "title": "Hotel Management Joint Entrance Examination (NCHM-JEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/nchm-jee/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Hotel Management Joint Entrance Examination (NCHM-JEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67544,
+      "title": "ICAR'S All India Entrance Examination (ICAR-AIEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/icar/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "ICAR'S All India Entrance Examination (ICAR-AIEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67543,
+      "title": "Joint Entrance Examination (JEE)",
+      "source": "NTA",
+      "link": "https://jeemain.nta.nic.in",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Joint Entrance Examination (JEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67542,
+      "title": "COMMON UNIVERSITY ENTRANCE TEST-PG (CUET-PG)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/cuet-pg/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "COMMON UNIVERSITY ENTRANCE TEST-PG (CUET-PG)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67541,
+      "title": "ALL INDIA SAINIK SCHOOL ENTRANCE EXAM (AISSEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/sainik-school-society/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "ALL INDIA SAINIK SCHOOL ENTRANCE EXAM (AISSEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67540,
+      "title": "NATIONAL INSTITUTE OF FASHION TECHNOLOGY ENTRANCE EXAMINATION (NIFTEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/niftee/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "NATIONAL INSTITUTE OF FASHION TECHNOLOGY ENTRANCE EXAMINATION (NIFTEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67539,
+      "title": "High Court of Judicature at Allahabad Recruitment Examinations \u2013 2026 (ALLHCRE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/allhcre/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "High Court of Judicature at Allahabad Recruitment Examinations \u2013 2026 (ALLHCRE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    },
+    {
+      "id": 67538,
+      "title": "RASHTRIYA INDIAN MILITARY COLLEGE ENTRANCE EXAMINATION (RIMCEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/rimcee/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "RASHTRIYA INDIAN MILITARY COLLEGE ENTRANCE EXAMINATION (RIMCEE)",
+      "publishedLabel": "Updated 2026-09-22",
+      "scrapedAt": "2026-09-22 19:38:06"
+    }
+  ],
   "news": [
     {
-      "id": 67537,
+      "id": 67575,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -18,10 +297,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67536,
+      "id": 67574,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -31,10 +310,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67535,
+      "id": 67573,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -44,10 +323,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67534,
+      "id": 67572,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -57,10 +336,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67533,
+      "id": 67571,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -70,10 +349,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67532,
+      "id": 67570,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -83,10 +362,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67531,
+      "id": 67569,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -96,10 +375,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67530,
+      "id": 67568,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -109,10 +388,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67529,
+      "id": 67567,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -122,10 +401,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     },
     {
-      "id": 67528,
+      "id": 67566,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -135,7 +414,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 16:02:15"
+      "scrapedAt": "2026-09-22 19:38:11"
     }
   ]
 };
