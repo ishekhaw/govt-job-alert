@@ -1,258 +1,14 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-09-22 10:40:22",
-  "totalJobs": 15,
+  "generatedAt": "2026-09-22 16:02:15",
+  "totalJobs": 0,
   "totalNews": 10,
-  "sourceCounts": [
-    {
-      "source": "NTA",
-      "count": 11
-    },
-    {
-      "source": "KVS",
-      "count": 4
-    }
-  ],
-  "featuredJob": {
-    "id": 67517,
-    "title": "genadmin[at]nta[dot]ac[dot]in",
-    "source": "NTA",
-    "link": "Mailto:genadmin@nta.ac.in",
-    "type": "Official Update",
-    "tag": "nta",
-    "scope": "NTA",
-    "pdf": false,
-    "description": "National Testing Agency (NTA),5th Floor, Government of India Press Building Minto Road, New Delhi - 110002 011-69227700",
-    "publishedLabel": "Updated 2026-09-22",
-    "scrapedAt": "2026-09-22 10:40:20"
-  },
-  "resourceJobs": [
-    {
-      "id": 67516,
-      "title": "NTA Registration and MoA",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube X Play Store App Store",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:20"
-    },
-    {
-      "id": 67502,
-      "title": "EXAM CALENDAR",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "EXAM CALENDAR",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:15"
-    }
-  ],
-  "jobs": [
-    {
-      "id": 67517,
-      "title": "genadmin[at]nta[dot]ac[dot]in",
-      "source": "NTA",
-      "link": "Mailto:genadmin@nta.ac.in",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "National Testing Agency (NTA),5th Floor, Government of India Press Building Minto Road, New Delhi - 110002 011-69227700",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:20"
-    },
-    {
-      "id": 67516,
-      "title": "NTA Registration and MoA",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube X Play Store App Store",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:20"
-    },
-    {
-      "id": 67505,
-      "title": "MOOCs Swayam Examination",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Swayamexam",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Swayam JEE (Main) Engineering Joint Entrance Examination - (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:20"
-    },
-    {
-      "id": 67504,
-      "title": "Engineering Joint Entrance Examination - (Main)",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Engineeringexam",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Swayam MOOCs Swayam Examination JEE (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:20"
-    },
-    {
-      "id": 67503,
-      "title": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
-      "source": "NTA",
-      "link": "http://cbtc.nta.ac.in/observer",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:17"
-    },
-    {
-      "id": 67502,
-      "title": "EXAM CALENDAR",
-      "source": "NTA",
-      "link": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
-      "type": "PDF Notice",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": true,
-      "description": "EXAM CALENDAR",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:15"
-    },
-    {
-      "id": 67501,
-      "title": "CONTACT US",
-      "source": "NTA",
-      "link": "https://nta.ac.in/ContactUs",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "CONTACT US",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:14"
-    },
-    {
-      "id": 67500,
-      "title": "Hotel Management Joint Entrance Examination",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/nchm-jee/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "RASHTRIYA INDIAN MILITARY COLLEGE ENTRANCE EXAMINATION (RIMCEE) Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:14"
-    },
-    {
-      "id": 67499,
-      "title": "ICAR'S All India Entrance Examination",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/icar/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "RASHTRIYA INDIAN MILITARY COLLEGE ENTRANCE EXAMINATION (RIMCEE) Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test Hotel Management Joint Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:14"
-    },
-    {
-      "id": 67498,
-      "title": "Joint Entrance Examination",
-      "source": "NTA",
-      "link": "https://jeemain.nta.nic.in",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "RASHTRIYA INDIAN MILITARY COLLEGE ENTRANCE EXAMINATION (RIMCEE) Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Hotel Management Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:14"
-    },
-    {
-      "id": 67497,
-      "title": "RASHTRIYA INDIAN MILITARY COLLEGE ENTRANCE EXAMINATION (RIMCEE)",
-      "source": "NTA",
-      "link": "https://exams.nta.nic.in/rimcee/",
-      "type": "Official Update",
-      "tag": "nta",
-      "scope": "NTA",
-      "pdf": false,
-      "description": "Joint Entrance Examination Common Management Admission Test UGC National Eligibility Test ICAR'S All India Entrance Examination Hotel Management Joint Entrance Examination Study Web of Active learning by Young and Aspiring Minds",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:14"
-    },
-    {
-      "id": 67495,
-      "title": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.amarujala.com/education/cbse-class-12-result-2026-kv-secures-top-spot-know-how-different-schools-performed-2026-05-13",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:06"
-    },
-    {
-      "id": 67494,
-      "title": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940",
-      "source": "KVS",
-      "link": "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:06"
-    },
-    {
-      "id": 67493,
-      "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:06"
-    },
-    {
-      "id": 67492,
-      "title": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
-      "source": "KVS",
-      "link": "https://kvsangathan.nic.in/",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "Menu Toggle \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
-      "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:05"
-    }
-  ],
+  "sourceCounts": [],
+  "featuredJob": null,
+  "resourceJobs": [],
+  "jobs": [],
   "news": [
     {
-      "id": 67527,
+      "id": 67537,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -262,10 +18,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67526,
+      "id": 67536,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -275,10 +31,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67525,
+      "id": 67535,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -288,10 +44,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67524,
+      "id": 67534,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -301,10 +57,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67523,
+      "id": 67533,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -314,10 +70,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67522,
+      "id": 67532,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -327,10 +83,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67521,
+      "id": 67531,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -340,10 +96,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67520,
+      "id": 67530,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -353,10 +109,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67519,
+      "id": 67529,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -366,10 +122,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     },
     {
-      "id": 67518,
+      "id": 67528,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -379,7 +135,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-09-22",
-      "scrapedAt": "2026-09-22 10:40:22"
+      "scrapedAt": "2026-09-22 16:02:15"
     }
   ]
 };
