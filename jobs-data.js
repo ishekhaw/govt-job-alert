@@ -1,33 +1,59 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-09-30 17:20:06",
-  "totalJobs": 19,
+  "generatedAt": "2026-10-01 00:58:16",
+  "totalJobs": 32,
   "totalNews": 10,
   "sourceCounts": [
     {
-      "source": "IBPS",
-      "count": 15
+      "source": "NTA",
+      "count": 17
     },
     {
-      "source": "KVS",
-      "count": 4
+      "source": "IBPS",
+      "count": 15
     }
   ],
   "featuredJob": {
-    "id": 68586,
-    "title": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930",
-    "source": "KVS",
-    "link": "https://www.amarujala.com/education/cbse-class-12-result-2026-kv-secures-top-spot-know-how-different-schools-performed-2026-05-13",
+    "id": 68654,
+    "title": "genadmin[at]nta[dot]ac[dot]in",
+    "source": "NTA",
+    "link": "Mailto:genadmin@nta.ac.in",
     "type": "Official Update",
-    "tag": "kvs",
-    "scope": "KVS",
+    "tag": "nta",
+    "scope": "NTA",
     "pdf": false,
-    "description": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-    "publishedLabel": "Updated 2026-09-30",
-    "scrapedAt": "2026-09-30 17:19:33"
+    "description": "National Testing Agency (NTA),5th Floor, Government of India Press Building Minto Road, New Delhi - 110002 011-69227700",
+    "publishedLabel": "Updated 2026-10-01",
+    "scrapedAt": "2026-10-01 00:58:14"
   },
   "resourceJobs": [
     {
-      "id": 68563,
+      "id": 68653,
+      "title": "NTA Registration and MoA",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube X Play Store App Store",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:14"
+    },
+    {
+      "id": 68639,
+      "title": "EXAM CALENDAR",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "EXAM CALENDAR",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68608,
       "title": "Updated Vacancies as on 29.09.2026 for Common Recruitment Process for CRP-CSA-XVI",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Annexure_Corrigendum_29.09.2026.pdf",
@@ -36,11 +62,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": true,
       "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68561,
+      "id": 68606,
       "title": "Corrigendum dated 29.09.2026 in connection with CRP-CSA-XVI",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-CSA_XVI_29.09.2026.pdf",
@@ -49,65 +75,234 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": true,
       "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     }
   ],
   "jobs": [
     {
-      "id": 68586,
-      "title": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.amarujala.com/education/cbse-class-12-result-2026-kv-secures-top-spot-know-how-different-schools-performed-2026-05-13",
+      "id": 68654,
+      "title": "genadmin[at]nta[dot]ac[dot]in",
+      "source": "NTA",
+      "link": "Mailto:genadmin@nta.ac.in",
       "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
+      "tag": "nta",
+      "scope": "NTA",
       "pdf": false,
-      "description": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:19:33"
+      "description": "National Testing Agency (NTA),5th Floor, Government of India Press Building Minto Road, New Delhi - 110002 011-69227700",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:14"
     },
     {
-      "id": 68585,
-      "title": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940",
-      "source": "KVS",
-      "link": "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
-      "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
-      "pdf": false,
-      "description": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:19:33"
+      "id": 68653,
+      "title": "NTA Registration and MoA",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "Mock Test Instagram Facebook Whatsapp Channel LinkedIn Youtube X Play Store App Store",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:14"
     },
     {
-      "id": 68584,
-      "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
-      "source": "KVS",
-      "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
+      "id": 68642,
+      "title": "MOOCs Swayam Examination",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Swayamexam",
       "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
+      "tag": "nta",
+      "scope": "NTA",
       "pdf": false,
-      "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:19:33"
+      "description": "Swayam JEE (Main) Engineering Joint Entrance Examination - (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:14"
     },
     {
-      "id": 68583,
-      "title": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
-      "source": "KVS",
-      "link": "https://kvsangathan.nic.in/",
+      "id": 68641,
+      "title": "Engineering Joint Entrance Examination - (Main)",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Engineeringexam",
       "type": "Official Update",
-      "tag": "kvs",
-      "scope": "KVS",
+      "tag": "nta",
+      "scope": "NTA",
       "pdf": false,
-      "description": "Menu Toggle \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:19:32"
+      "description": "Swayam MOOCs Swayam Examination JEE (Main) NEET (UG) Medical National Eligibility Cum Entrance Test - (UG) CUET (UG) University Common University Entrance Test - (UG) UGC-NET University UGC National Eligibility Test CSIR NET University CSIR-National Eligibility Test (CSIR-NET)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:14"
     },
     {
-      "id": 68578,
+      "id": 68640,
+      "title": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
+      "source": "NTA",
+      "link": "http://cbtc.nta.ac.in/observer",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:06"
+    },
+    {
+      "id": 68639,
+      "title": "EXAM CALENDAR",
+      "source": "NTA",
+      "link": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
+      "type": "PDF Notice",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": true,
+      "description": "EXAM CALENDAR",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68638,
+      "title": "CONTACT US",
+      "source": "NTA",
+      "link": "https://nta.ac.in/ContactUs",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "CONTACT US",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68637,
+      "title": "Rashtriya Indian Military College Entrance Examination (RIMCEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/rimcee/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Rashtriya Indian Military College Entrance Examination (RIMCEE)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68636,
+      "title": "Hotel Management Joint Entrance Examination (NCHM-JEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/nchm-jee/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Hotel Management Joint Entrance Examination (NCHM-JEE)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68635,
+      "title": "National Institute of Fashion Technology Entrance Examination (NIFTEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/niftee/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "National Institute of Fashion Technology Entrance Examination (NIFTEE)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68634,
+      "title": "ICAR's All India Entrance Examination (ICAR-AIEEA/AICE-JRF/SRF-Ph.D.)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/icar/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "ICAR's All India Entrance Examination (ICAR-AIEEA/AICE-JRF/SRF-Ph.D.)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68633,
+      "title": "All India Sainik School Entrance Exam (AISSEE)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/sainik-school-society/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "All India Sainik School Entrance Exam (AISSEE)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68632,
+      "title": "Joint CSIR-UGC - National Eligibility Test (Joint CSIR-UGC NET)",
+      "source": "NTA",
+      "link": "https://csirnet.nta.nic.in/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Joint CSIR-UGC - National Eligibility Test (Joint CSIR-UGC NET)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68631,
+      "title": "Common University Entrance Test-PG (CUET-PG)",
+      "source": "NTA",
+      "link": "https://exams.nta.nic.in/cuet-pg/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Common University Entrance Test-PG (CUET-PG)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68630,
+      "title": "Common University Entrance Test-UG (CUET-UG)",
+      "source": "NTA",
+      "link": "https://cuet.nta.nic.in/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Common University Entrance Test-UG (CUET-UG)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68629,
+      "title": "Joint Entrance Examination (JEE)",
+      "source": "NTA",
+      "link": "https://jeemain.nta.nic.in",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "Joint Entrance Examination (JEE)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68628,
+      "title": "National Eligibility Cum Entrance Test (NEET)",
+      "source": "NTA",
+      "link": "https://neet.nta.nic.in/",
+      "type": "Official Update",
+      "tag": "nta",
+      "scope": "NTA",
+      "pdf": false,
+      "description": "National Eligibility Cum Entrance Test (NEET)",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:03"
+    },
+    {
+      "id": 68623,
       "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/services",
@@ -116,11 +311,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:52"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68577,
+      "id": 68622,
       "title": "CRP Specialist Officer",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers",
@@ -129,11 +324,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP RRB",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:52"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68576,
+      "id": 68621,
       "title": "CRP - PO/MTs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees",
@@ -142,11 +337,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "HOME RECRUITMENT EXAMS CRP - RRBs CRP - CLERKS CRP - SPECIALIST OFFICERS",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:52"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68575,
+      "id": 68620,
       "title": "CRP Clerical cadre",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre",
@@ -155,11 +350,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP PO/MT CRP RRB CRP Specialist Officer",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:52"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68574,
+      "id": 68619,
       "title": "CRP RRB",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank",
@@ -168,24 +363,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP Specialist Officer",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:52"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68555,
-      "title": "CRP PO/MT",
-      "source": "IBPS",
-      "link": "https://www.ibps.in/index.php/management-trainees/",
-      "type": "Official Update",
-      "tag": "ibps",
-      "scope": "IBPS",
-      "pdf": false,
-      "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:52"
-    },
-    {
-      "id": 68566,
+      "id": 68611,
       "title": "MECL Recruitment of Non-Executive Posts Registration From 12-Sep-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/mecljul26/",
@@ -194,11 +376,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "MECL Recruitment of Non-Executive Posts Registration From 12-Sep-2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68565,
+      "id": 68610,
       "title": "IEB Special Recruitment Drive (SRD) Registration From 15-Sep-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/iebsrdaug26/",
@@ -207,11 +389,24 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "IEB Special Recruitment Drive (SRD) Registration From 15-Sep-2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
     },
     {
-      "id": 68563,
+      "id": 68600,
+      "title": "CRP PO/MT",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/management-trainees/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:56"
+    },
+    {
+      "id": 68608,
       "title": "Updated Vacancies as on 29.09.2026 for Common Recruitment Process for CRP-CSA-XVI",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Annexure_Corrigendum_29.09.2026.pdf",
@@ -220,11 +415,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": true,
       "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68561,
+      "id": 68606,
       "title": "Corrigendum dated 29.09.2026 in connection with CRP-CSA-XVI",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-CSA_XVI_29.09.2026.pdf",
@@ -233,11 +428,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": true,
       "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68559,
+      "id": 68604,
       "title": "Link for Capturing Aadhaar Consent / Aadhaar Number for CRP-PO/MTs-XVI",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/crppoxvijun26/dca_sep26/",
@@ -246,11 +441,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP-PO/MTs-XVI Posted on 29 Sep, 2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:51"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68557,
+      "id": 68602,
       "title": "Provisional Allotment under Reserve List for CRP-RRBs\u2013XIV -Office Assistants (Multipurpose)",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/rural-bank-xiv/",
@@ -259,11 +454,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP-RRBs\u2013XIV Posted on 30 Sep, 2026",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:50"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68556,
+      "id": 68601,
       "title": "CRP Specialist Officers",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers/",
@@ -272,11 +467,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP RRBs CRP CSA(Customer Service Associates) CRP PO/MTs Mock Test",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:50"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68554,
+      "id": 68599,
       "title": "CRP CSA(Customer Service Associates)",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre/",
@@ -285,11 +480,11 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP RRBs CRP PO/MTs CRP Specialist Officers Mock Test",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:50"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     },
     {
-      "id": 68553,
+      "id": 68598,
       "title": "CRP RRBs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank/",
@@ -298,13 +493,13 @@ window.__JOB_DATA__ = {
       "scope": "IBPS",
       "pdf": false,
       "description": "CRP CSA(Customer Service Associates) CRP PO/MTs CRP Specialist Officers Mock Test",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:18:50"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:56:55"
     }
   ],
   "news": [
     {
-      "id": 68597,
+      "id": 68664,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -313,11 +508,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68596,
+      "id": 68663,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -326,11 +521,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68595,
+      "id": 68662,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -339,11 +534,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68594,
+      "id": 68661,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -352,11 +547,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68593,
+      "id": 68660,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -365,11 +560,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68592,
+      "id": 68659,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -378,11 +573,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68591,
+      "id": 68658,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -391,11 +586,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68590,
+      "id": 68657,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -404,11 +599,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68589,
+      "id": 68656,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -417,11 +612,11 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     },
     {
-      "id": 68588,
+      "id": 68655,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -430,8 +625,8 @@ window.__JOB_DATA__ = {
       "scope": "TOI_NEWS",
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
-      "publishedLabel": "Updated 2026-09-30",
-      "scrapedAt": "2026-09-30 17:20:06"
+      "publishedLabel": "Updated 2026-10-01",
+      "scrapedAt": "2026-10-01 00:58:16"
     }
   ]
 };
