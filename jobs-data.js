@@ -1,15 +1,19 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-10-03 00:51:56",
-  "totalJobs": 4,
+  "generatedAt": "2026-10-03 10:53:15",
+  "totalJobs": 19,
   "totalNews": 10,
   "sourceCounts": [
+    {
+      "source": "IBPS",
+      "count": 15
+    },
     {
       "source": "KVS",
       "count": 4
     }
   ],
   "featuredJob": {
-    "id": 68936,
+    "id": 68980,
     "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
     "source": "KVS",
     "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
@@ -19,12 +23,39 @@ window.__JOB_DATA__ = {
     "pdf": false,
     "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
     "publishedLabel": "Updated 2026-10-03",
-    "scrapedAt": "2026-10-03 00:51:23"
+    "scrapedAt": "2026-10-03 10:52:43"
   },
-  "resourceJobs": [],
+  "resourceJobs": [
+    {
+      "id": 68957,
+      "title": "Updated Vacancies as on 29.09.2026 for Common Recruitment Process for CRP-CSA-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/wp-content/uploads/Annexure_Corrigendum_29.09.2026.pdf",
+      "type": "PDF Notice",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": true,
+      "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68955,
+      "title": "Corrigendum dated 29.09.2026 in connection with CRP-CSA-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-CSA_XVI_29.09.2026.pdf",
+      "type": "PDF Notice",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": true,
+      "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    }
+  ],
   "jobs": [
     {
-      "id": 68936,
+      "id": 68980,
       "title": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930",
       "source": "KVS",
       "link": "https://www.timesnowhindi.com/education/cbse-12th-result-2026-kvs-vs-jnv-whose-result-is-highest-kendriya-vidyalaya-and-jawahar-navodaya-vidyalaya-12th-pass-percentage-article-154315169",
@@ -34,10 +65,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CBSE 12th Result 2026: \u0938\u0940\u092c\u0940\u090f\u0938\u0908 12\u0935\u0940\u0902 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u093e \u0926\u092c\u0926\u092c\u093e, 98.55% \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:23"
+      "scrapedAt": "2026-10-03 10:52:43"
     },
     {
-      "id": 68935,
+      "id": 68979,
       "title": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930",
       "source": "KVS",
       "link": "https://www.amarujala.com/education/cbse-class-12-result-2026-kv-secures-top-spot-know-how-different-schools-performed-2026-05-13",
@@ -47,10 +78,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CBSE 12th Result: \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u0935\u093e\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0930\u0939\u093e \u091f\u0949\u092a \u092a\u0930 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:23"
+      "scrapedAt": "2026-10-03 10:52:43"
     },
     {
-      "id": 68934,
+      "id": 68978,
       "title": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940",
       "source": "KVS",
       "link": "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
@@ -60,10 +91,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CBSE 12th Result 2026: KV \u0914\u0930 \u0928\u0935\u094b\u0926\u092f \u0915\u093e \u091c\u0932\u0935\u093e, 12\u0935\u0940\u0902 \u0915\u0947 \u0928\u0924\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0907\u0928 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0928\u0947 \u092e\u093e\u0930\u0940 \u092c\u093e\u091c\u0940 - \u092c\u093e\u0939\u0930\u0940 \u0938\u093e\u0907\u091f \u091c\u094b \u090f\u0915 \u0928\u0908 \u0935\u093f\u0902\u0921\u094b \u092e\u0947\u0902 \u0916\u0941\u0932\u0924\u0940 \u0939\u0948",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:23"
+      "scrapedAt": "2026-10-03 10:52:43"
     },
     {
-      "id": 68933,
+      "id": 68977,
       "title": "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0938\u0902\u0917\u0920\u0928 KENDRIYA VIDYALAYA SANGATHAN \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
       "source": "KVS",
       "link": "https://kvsangathan.nic.in/",
@@ -73,12 +104,207 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Menu Toggle \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f, \u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0905\u0927\u0940\u0928 \u090f\u0915 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0915\u093e\u092f AN AUTONOMOUS BODY UNDER MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:22"
+      "scrapedAt": "2026-10-03 10:52:42"
+    },
+    {
+      "id": 68971,
+      "title": "CRP Specialist Officer",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/specialist-officers",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP Clerical cadre CRP PO/MT CRP RRB",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:06"
+    },
+    {
+      "id": 68969,
+      "title": "CRP Clerical cadre",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/clerical-cadre",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP PO/MT CRP RRB CRP Specialist Officer",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:06"
+    },
+    {
+      "id": 68968,
+      "title": "CRP RRB",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/regional-rural-bank",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP Clerical cadre CRP PO/MT CRP Specialist Officer",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:06"
+    },
+    {
+      "id": 68949,
+      "title": "CRP PO/MT",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/management-trainees/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:06"
+    },
+    {
+      "id": 68972,
+      "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/services",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68970,
+      "title": "CRP - PO/MTs",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/management-trainees",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "HOME RECRUITMENT EXAMS CRP - RRBs CRP - CLERKS CRP - SPECIALIST OFFICERS",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68960,
+      "title": "MECL Recruitment of Non-Executive Posts Registration From 12-Sep-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/mecljul26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "MECL Recruitment of Non-Executive Posts Registration From 12-Sep-2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68959,
+      "title": "IEB Special Recruitment Drive (SRD) Registration From 15-Sep-2026",
+      "source": "IBPS",
+      "link": "https://ibpsreg.ibps.in/iebsrdaug26/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "IEB Special Recruitment Drive (SRD) Registration From 15-Sep-2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68957,
+      "title": "Updated Vacancies as on 29.09.2026 for Common Recruitment Process for CRP-CSA-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/wp-content/uploads/Annexure_Corrigendum_29.09.2026.pdf",
+      "type": "PDF Notice",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": true,
+      "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68955,
+      "title": "Corrigendum dated 29.09.2026 in connection with CRP-CSA-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-CSA_XVI_29.09.2026.pdf",
+      "type": "PDF Notice",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": true,
+      "description": "CRP-CSA-XVI Posted on 29 Sep, 2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68953,
+      "title": "Provisional Allotment under Reserve List for CRP-RRBs\u2013XIV -Office Assistants (Multipurpose)",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/rural-bank-xiv/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP-RRBs\u2013XIV Posted on 30 Sep, 2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68951,
+      "title": "Online Preliminary Exam Call Letter for CRP-CSA-XVI",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/clerical-cadre-xvi/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP-CSA-XVI Posted on 01 Oct, 2026",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68950,
+      "title": "CRP Specialist Officers",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/specialist-officers/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP RRBs CRP CSA(Customer Service Associates) CRP PO/MTs Mock Test",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68948,
+      "title": "CRP CSA(Customer Service Associates)",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/clerical-cadre/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP RRBs CRP PO/MTs CRP Specialist Officers Mock Test",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
+    },
+    {
+      "id": 68947,
+      "title": "CRP RRBs",
+      "source": "IBPS",
+      "link": "https://www.ibps.in/index.php/regional-rural-bank/",
+      "type": "Official Update",
+      "tag": "ibps",
+      "scope": "IBPS",
+      "pdf": false,
+      "description": "CRP CSA(Customer Service Associates) CRP PO/MTs CRP Specialist Officers Mock Test",
+      "publishedLabel": "Updated 2026-10-03",
+      "scrapedAt": "2026-10-03 10:52:05"
     }
   ],
   "news": [
     {
-      "id": 68946,
+      "id": 68990,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -88,10 +314,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68945,
+      "id": 68989,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -101,10 +327,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68944,
+      "id": 68988,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -114,10 +340,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68943,
+      "id": 68987,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -127,10 +353,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68942,
+      "id": 68986,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -140,10 +366,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68941,
+      "id": 68985,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -153,10 +379,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68940,
+      "id": 68984,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -166,10 +392,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68939,
+      "id": 68983,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -179,10 +405,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68938,
+      "id": 68982,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -192,10 +418,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     },
     {
-      "id": 68937,
+      "id": 68981,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -205,7 +431,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-10-03",
-      "scrapedAt": "2026-10-03 00:51:56"
+      "scrapedAt": "2026-10-03 10:53:15"
     }
   ]
 };
