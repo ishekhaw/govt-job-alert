@@ -1,5 +1,5 @@
 window.__JOB_DATA__ = {
-  "generatedAt": "2026-10-17 18:06:25",
+  "generatedAt": "2026-10-17 23:42:27",
   "totalJobs": 19,
   "totalNews": 10,
   "sourceCounts": [
@@ -9,7 +9,7 @@ window.__JOB_DATA__ = {
     }
   ],
   "featuredJob": {
-    "id": 71711,
+    "id": 71754,
     "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
     "source": "IBPS",
     "link": "https://www.ibps.in/index.php/services",
@@ -19,11 +19,11 @@ window.__JOB_DATA__ = {
     "pdf": false,
     "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
     "publishedLabel": "Updated 2026-10-17",
-    "scrapedAt": "2026-10-17 18:04:22"
+    "scrapedAt": "2026-10-17 23:40:24"
   },
   "resourceJobs": [
     {
-      "id": 71692,
+      "id": 71734,
       "title": "Notification for Common Recruitment Process for CRP- PO/MTs-XVI",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
@@ -33,10 +33,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CRP-PO/MTs-XVI Posted on 01 Jul, 2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71690,
+      "id": 71732,
       "title": "Addendum dated 06.10.2026 in respect of Recruitment of Banker Faculty, Banker Faculty (Technical) And Executive Secretary to Director On Fixed Term Contract Basis",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Addendum-06.10.pdf",
@@ -46,12 +46,12 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "IBPS Career Posted on 06 Oct, 2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     }
   ],
   "jobs": [
     {
-      "id": 71711,
+      "id": 71754,
       "title": "Personnel Selection Services For Recruitment, Promotion And Placement",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/services",
@@ -61,10 +61,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Personnel Selection Services for Recruitment, Promotion and Placement",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71710,
+      "id": 71753,
       "title": "CRP Specialist Officer",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers",
@@ -74,10 +74,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP RRB",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71709,
+      "id": 71752,
       "title": "CRP - PO/MTs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees",
@@ -87,10 +87,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "HOME RECRUITMENT EXAMS CRP - RRBs CRP - CLERKS CRP - SPECIALIST OFFICERS",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71708,
+      "id": 71751,
       "title": "CRP Clerical cadre",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre",
@@ -100,10 +100,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP PO/MT CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71707,
+      "id": 71750,
       "title": "CRP RRB",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank",
@@ -113,10 +113,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP PO/MT CRP Specialist Officer",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71699,
+      "id": 71741,
       "title": "NIICL Recruitment of 321 Administrative Officers Registration From 08-Oct-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/niiclsep26/",
@@ -126,10 +126,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "NIICL Recruitment of 321 Administrative Officers Registration From 08-Oct-2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71698,
+      "id": 71740,
       "title": "NABARD Recruitment of Specialists On Contract \u2013 2026-27 \u2013 CISO & DoS-CSITE Registration From 09-Oct-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/nabardsjul26/",
@@ -139,10 +139,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "NABARD Recruitment of Specialists On Contract \u2013 2026-27 \u2013 CISO & DoS-CSITE Registration From 09-Oct-2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71697,
+      "id": 71739,
       "title": "IEB Special Recruitment Drive (SRD) Registration From 15-Sep-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/iebsrdaug26/",
@@ -152,10 +152,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "IEB Special Recruitment Drive (SRD) Registration From 15-Sep-2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71696,
+      "id": 71738,
       "title": "MPA Recruitment of Class I & II Posts Registration From 29-Sep-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/mpajul26/",
@@ -165,10 +165,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "MPA Recruitment of Class I & II Posts Registration From 29-Sep-2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71695,
+      "id": 71737,
       "title": "NIT Recruitment of Non-Faculty Position Registration From 01-Oct-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/nitrjul26/",
@@ -178,10 +178,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "NIT Recruitment of Non-Faculty Position Registration From 01-Oct-2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71694,
+      "id": 71736,
       "title": "KUCBL Recruitment of Managers and Assistant Managers Registration From 02-Oct-2026",
       "source": "IBPS",
       "link": "https://ibpsreg.ibps.in/kucbldec25/",
@@ -191,10 +191,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "KUCBL Recruitment of Managers and Assistant Managers Registration From 02-Oct-2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71686,
+      "id": 71728,
       "title": "CRP PO/MT",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/management-trainees/",
@@ -204,10 +204,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP Clerical cadre CRP RRB CRP Specialist Officer",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:22"
+      "scrapedAt": "2026-10-17 23:40:24"
     },
     {
-      "id": 71692,
+      "id": 71734,
       "title": "Notification for Common Recruitment Process for CRP- PO/MTs-XVI",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
@@ -217,10 +217,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "CRP-PO/MTs-XVI Posted on 01 Jul, 2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71691,
+      "id": 71733,
       "title": "Recruitment of Various Posts in IBPS",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/careers/",
@@ -230,10 +230,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "IBPS Careers Posted on 23 Sep, 2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71690,
+      "id": 71732,
       "title": "Addendum dated 06.10.2026 in respect of Recruitment of Banker Faculty, Banker Faculty (Technical) And Executive Secretary to Director On Fixed Term Contract Basis",
       "source": "IBPS",
       "link": "https://www.ibps.in/wp-content/uploads/Addendum-06.10.pdf",
@@ -243,10 +243,10 @@ window.__JOB_DATA__ = {
       "pdf": true,
       "description": "IBPS Career Posted on 06 Oct, 2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71688,
+      "id": 71730,
       "title": "Result Status of Online Preliminary Examination for CRP-SPL-XVI",
       "source": "IBPS",
       "link": "http://ibpsreg.ibps.in/crpspxvimy26/presta_oct26/login.php?appid=f8a5692529ba20a12e158903a42a917c",
@@ -256,10 +256,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP-SPL-XVI Posted on 15 Oct, 2026",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71687,
+      "id": 71729,
       "title": "CRP Specialist Officers",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/specialist-officers/",
@@ -269,10 +269,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP CSA(Customer Service Associates) CRP PO/MTs Mock Test",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71685,
+      "id": 71727,
       "title": "CRP CSA(Customer Service Associates)",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/clerical-cadre/",
@@ -282,10 +282,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP RRBs CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     },
     {
-      "id": 71684,
+      "id": 71726,
       "title": "CRP RRBs",
       "source": "IBPS",
       "link": "https://www.ibps.in/index.php/regional-rural-bank/",
@@ -295,12 +295,12 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "CRP CSA(Customer Service Associates) CRP PO/MTs CRP Specialist Officers Mock Test",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:04:21"
+      "scrapedAt": "2026-10-17 23:40:23"
     }
   ],
   "news": [
     {
-      "id": 71725,
+      "id": 71768,
       "title": "BSEB Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/bihar-board-bseb-class-12th-intermediate-result",
@@ -310,10 +310,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: BSEB Class 12 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71724,
+      "id": 71767,
       "title": "ASSEB Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/assam-board-asseb-10th-result/129768562",
@@ -323,10 +323,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: ASSEB Class 10 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71723,
+      "id": 71766,
       "title": "UP Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-10th-result/109005635",
@@ -336,10 +336,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 10 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71722,
+      "id": 71765,
       "title": "UP Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/upmsp-up-board-class-12th-result/109005657",
@@ -349,10 +349,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: UP Class 12 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71721,
+      "id": 71764,
       "title": "Telangana SSC Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/telangana-board-ts-ssc-10th-class-result/129797969",
@@ -362,10 +362,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: Telangana SSC Class 10 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71720,
+      "id": 71763,
       "title": "CGBSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-12th-result/120302476",
@@ -375,10 +375,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 12 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71719,
+      "id": 71762,
       "title": "CGBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/chhattisgarh-cgbse-board-class-10th-result/120302481",
@@ -388,10 +388,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: CGBSE Class 10 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71718,
+      "id": 71761,
       "title": "AP Board Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/ap-board-bseap-class-10th-result/120300127",
@@ -401,10 +401,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: AP Board Class 10 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71717,
+      "id": 71760,
       "title": "WBCHSE Class 12 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-12th-result/109398428",
@@ -414,10 +414,10 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBCHSE Class 12 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     },
     {
-      "id": 71716,
+      "id": 71759,
       "title": "WBBSE Class 10 Result",
       "source": "TOI_NEWS",
       "link": "https://timesofindia.indiatimes.com/education/results/board-exam-results/wb-board-10th-result/109398401",
@@ -427,7 +427,7 @@ window.__JOB_DATA__ = {
       "pdf": false,
       "description": "Education news from Times of India: WBBSE Class 10 Result",
       "publishedLabel": "Updated 2026-10-17",
-      "scrapedAt": "2026-10-17 18:06:25"
+      "scrapedAt": "2026-10-17 23:42:27"
     }
   ]
 };
